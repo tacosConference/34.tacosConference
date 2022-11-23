@@ -3,14 +3,15 @@ This is the website template for the 2022 `Tagung der Computerlinguistik Studier
 
 ## How to clone the website
 **1. Check whether you have installed [Git](https://git-scm.com/).**
+
 In the command line, type:
 ```sh
 git --version
 ``` 
-You know you have git installed when you see something like `git version 2.25.1`. If you don't, follow steps 1 and 2 in [this tutorial]. For windows users, substitute the step that uses `sudo apt install git` with a download from [here](https://git-scm.com/download/win).
+You know you have git installed when you see something like `git version 2.25.1`. If you don't, follow steps 1 and 2 in [this tutorial](https://docs.slam.phil.hhu.de/#/github_tut). For windows users, substitute the step that uses `sudo apt install git` with a download from [here](https://git-scm.com/download/win).
 
 **2. Install the prerequisites for the website**
-Follow the tutorial for your operating system [here](https://jekyllrb.com/docs/installation/#requirements)and check if you have NodeJS installed:
+Follow the tutorial for your operating system [here](https://jekyllrb.com/docs/installation/#requirements) and check if you have NodeJS installed:
 ```sh
 node --version
 ```
