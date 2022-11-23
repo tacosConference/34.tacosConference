@@ -22,6 +22,19 @@ Finally, download Jekyll sitemap and Jekyll SEO gems.
 gem install jekyll-sitemap
 gem install jekyll-seo-tag
 ```
+Should you encounter the error below when trying to install `jekyll-sitemap` you have to install ruby dev with `sudo apt install ruby-dev` for Linux/ Ubuntu (or look that up for Windows and Mac). 
+
+```sh
+gem install jekyll-sitemap
+this error may appear
+
+ERROR:  Error installing jekyll-sitemap:
+        ERROR: Failed to build gem native extension.
+
+    current directory: /var/lib/gems/3.0.0/gems/ffi-1.15.5/ext/ffi_c
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221123-802-zy3iwm.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+```
 
 **3. Clone the website**
 In the command line, clone the website with the command below. It will be as new folder in the same folder that you run the command in. 
