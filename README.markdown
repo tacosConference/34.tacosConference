@@ -47,4 +47,14 @@ In the command line, clone the website with the command below. It will be as new
 git clone git@github.com:tacosConference/tacosConference.github.io.git
 ```
 
-You done! :tada:
+You are done! :tada:
+
+## Reviewing/Approving Pull requests
+Here are some suggested steps if you have been tagged to or would like to review and approve a pull request.
+You might want to check out the [GitHub guide](https://docs.slam.phil.hhu.de/#/github_tut) if you are unsure what is meant by `git pull` etc. 
+
+1. Pull the changes to your local version of the website. On your commandline (or git bash on Windows), navigate into the website folder and type `git pull`. 
+2. Now type `git status` to see which branch you are on. If you are already on the branch that the pull request was made from, perfect. If not, switch to the branch. 
+3. Host the changes locally with `jekyll server`, to see if anything does not work or looks weird. Pay particular attention to anything that was changed. Try clicking all of the links, look at picture/text formatting, etc.  You can see what was changed if you go to the pull request and click on `commits` and then choose the individual commits. 
+4. If everything looks good you can click on `review` and then approve. 
+5. Feel free to also merge the branch into the main branch by clicking on `Merge pull request`. 
