@@ -1,6 +1,11 @@
 # TaCos 2022 Website 
 This is the website template for the 2022 `Tagung der Computerlinguistik Studierenden` in Düsseldorf. The template is a [Jekyll](https://jekyllrb.com/) event theme cloned from https://github.com/melvinchng/event-jekyll-theme. 
 
+## Website Documentation
+
+https://pad.hhu.de/s/l0CPpGYhc 
+
+
 ## How to clone the website
 **1. Check whether you have installed [Git](https://git-scm.com/).**
 
