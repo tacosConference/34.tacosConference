@@ -1,10 +1,11 @@
 # TaCos 2022 Website 
 This is the website template for the 2022 `Tagung der Computerlinguistik Studierenden` in Düsseldorf. The template is a [Jekyll](https://jekyllrb.com/) event theme cloned from https://github.com/melvinchng/event-jekyll-theme. 
 
+Checkout out LinkTree if you want to know more about us or the conference: https://linktr.ee/tacos2023.
+
 ## Website Documentation
-
-https://pad.hhu.de/s/l0CPpGYhc 
-
+Our documentation can be found in the Wiki of this repository.  
+https://github.com/tacosConference/tacosConference.github.io/wiki/Basic-Website-Documentation 
 
 ## How to clone the website
 **1. Check whether you have installed [Git](https://git-scm.com/).**
@@ -57,4 +58,5 @@ You might want to check out the [GitHub guide](https://docs.slam.phil.hhu.de/#/g
 2. Now type `git status` to see which branch you are on. If you are already on the branch that the pull request was made from, perfect. If not, switch to the branch with `git checkout <branchname>`. 
 3. Host the changes locally with `jekyll serve`, to see if anything does not work or looks weird. Pay particular attention to anything that was changed. Try clicking all of the links, looking at picture/text formatting, etc.  You can see what was changed if you go to the pull request and click on `commits` and then choose the individual commits. 
 4. If everything looks good you can click on `review` and then approve. 
-5. Feel free to also merge the branch into the main branch by clicking on `Merge pull request`. 
+5. Feel free to also merge the branch into the main branch by clicking on `Merge pull request`.
+
