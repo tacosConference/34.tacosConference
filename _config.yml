@@ -1,8 +1,8 @@
-title: 32. TaCoS
+title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tacosconference.github.io/" # the base hostname & protocol for your site
+url: "Your-Link.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -12,8 +12,8 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social: 
-  name: "@tacosconference"
-  link: "https://twitter.com/tacosconference"
+  name: Your Facebook Page
+  link: "https://www.facebook.com/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -27,10 +27,10 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  #- title: facebook
-  #  url: https://www.facebook.com
+  - title: facebook
+    url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com/tacosconference
+    url: https://twitter.com
 
 # Build settings
 markdown: kramdown
