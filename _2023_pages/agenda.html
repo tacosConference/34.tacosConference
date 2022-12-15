@@ -12,7 +12,9 @@ published: true
     <div class="event black-frame">
       <h1>{{ page.title }}</h1>
 
-        <h2>Day 1</h2>
+        <p>The scedule of the Tacos will be announced here</p>
+
+        <h2>June 29th</h2>
         <table class="agenda">
             <thead>
                 <tr>
@@ -29,7 +31,7 @@ published: true
             {% endfor %}
         </table>
 
-        <h2>Day 2</h2>
+        <h2>June 30th</h2>
         <table class="agenda">
             <thead>
                 <tr>
@@ -40,6 +42,40 @@ published: true
             </thead>
 
             {% for agenda in site.data.twenty_17.agendas_2 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>July 1st</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>July 2nd</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_17.agendas_1 %}
                 <tr>
                     <td>{{ agenda.time }}</td>
                     <td>{{ agenda.info }}</td>
