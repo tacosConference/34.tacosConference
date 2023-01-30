@@ -445,7 +445,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    #background3cb371
+    background: #c29427;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
