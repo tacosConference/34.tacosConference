@@ -1,14 +1,11 @@
-- question: Question 1
-  answer: Answer to Question 1
+- question: Do I need to study Computational Linguistics to attend?
+  answer: No. If you are interested in learning more about computatinal linguistics, you are at the right place, no matter what you study.
 
-- question: Question 2
-  answer: Answer to Question 2
+- question: Does the TaCoS pay my travel costs?
+  answer: No. But sometimes (Fachschaften) will pay for your travel. Also consider applying for one of our scholarships!
 
-- question: Question 3
-  answer: Answer to Question 3
+- question: I want to sponsor the TaCoS, how can I do that?
+  answer: https://tacosconference.github.io/booklet
 
-- question: Question 4
-  answer: Answer to Question 4
-
-- question: Question 5
-  answer: Answer to Question 5
+- question: I want to hold a talk, what length should it be?
+  answer: You will have a timeslot of 30 miutes for your talk. Your talk itself should take about 20 miutes, the final 10 are for questions.
