@@ -7,13 +7,13 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Check out the (preliminary) agenda
   link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
-  info: Find out the team members
+  info: Learn more aobut the team behind the TaCos
   link: /team
 
 - inverted: timeline-inverted
@@ -30,6 +30,6 @@
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
+  name: Sponsor Booklet
+  info: View or Download our sponsor booklet
   link: https://tacosconference.github.io/css/2023_style/pdfs_etc/32.TaCoS_Brochure.pdf
