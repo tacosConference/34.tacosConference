@@ -1,23 +1,41 @@
 - title: Dr. Yulia Zinova
-  name: Dr. Yulia Zinova
-  subtitle: Dr. Yulia Zinova
+  name: YuliaZinova
+  subtitle: Postdoctoral researcher
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Zinova
   topic: Topic
-  description: Postdoctoral researcher and lecturer at heinrich Heiner University. 
+  description: Postdoctoral researcher and lecturer at Heinrich-Heine University. 
 
 - title: Dr. Killian Evang
-  name: Dr. Killian Evang
-  subtitle: Dr. Killian Evang
+  name: KillianEvang
+  subtitle: Postdoctoral researcher
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Evang
   topic: Topic
-  description: Postdoctoral researcher and lecturer at Heinrich Heine University.
+  description: Postdoctoral researcher and lecturer at Heinrich-Heine University.
 
 - title: Name
   name: Name-3
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Name
+  name: Name-4
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
+- title: Name
+  name: Name-5
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
