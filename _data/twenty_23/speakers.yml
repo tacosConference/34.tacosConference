@@ -1,20 +1,20 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Dr. Yulia Zinova
+  name: Dr. Yulia Zinova
+  subtitle: Dr. Yulia Zinova
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Postdoctoral researcher and lecturer at heinrich Heiner University. 
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Dr. Killian Evang
+  name: Dr. Killian Evang
+  subtitle: Dr. Killian Evang
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Postdoctoral researcher and lecturer at Heinrich Heine University.
 
 - title: Name
   name: Name-3
