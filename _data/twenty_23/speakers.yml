@@ -1,20 +1,20 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Dr. Yulia Zinova
+  name: YuliaZinova
+  subtitle: Postdoctoral researcher
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Zinova
   topic: Topic
-  description: More Info
+  description: Postdoctoral researcher and lecturer at Heinrich-Heine University. 
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Dr. Killian Evang
+  name: KillianEvang
+  subtitle: Postdoctoral researcher
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Evang
   topic: Topic
-  description: More Info
+  description: Postdoctoral researcher and lecturer at Heinrich-Heine University.
 
 - title: Name
   name: Name-3
@@ -24,3 +24,22 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  
+- title: Name
+  name: Name-4
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+ 
+- title: Name
+  name: Name-5
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
