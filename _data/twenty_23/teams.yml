@@ -1,90 +1,70 @@
 - title: "Luuk Suurmeijer"
-  name: Luuk Suurmeijer
-  subtitle: Chair, TaCoS orga-team
+  name: LuukSuurmeijer
+  subtitle: Former chair, TaCoS orga-team
   img: luuk.png
   thumbnail: luuk.png
   alt: Picture of TBD
   topic: Topic
-  description: Luuk is a PhD candidate in computational semantics at HHU.
+  description: Luuk was a PhD candidate in computational semantics at HHU.
 
-- title: "Anna Stein"
-  name: Anna Stein
-  subtitle: Website wizard, TaCoS orga-team
-  img: anna.png
-  thumbnail: anna.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics.   
-
-- title: "Nele Mastracchio"
-  name: Nele Mastraccio
-  subtitle: Website-team, TaCoS orga-team
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Nele is a computational linguist.
-
-- title: "Anh Kim Nguyen"
-  name: Anh Kim Nguyen
-  subtitle: Designer in charge, TaCoS orga-team
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Anh Kim is a Linguist.
-          
-- title: "Mogens Mastracchio"
-  name: Mogens Mastracchio
-  subtitle: TaCoS orga team
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Mogens is a Linguist.
-          
-  #- title: "Emma Stein"
-  #name: Emma Stein
-  #subtitle: TaCoS orga team
-  #img: emma.png
-  #thumbnail: emma.png
-  #alt: Picture of TBD
-  #topic: Topic
-  #description: Emma is currently doing her Bachelor's degree in linguistics nad is interested in semantics, pragmatics and everything that involves killing a joke linguistically. 
-          
 - title: "Alexander Clemen"
-  name: Alexander Clemen
-  subtitle: TaCoS orga team, Finances
+  name: AlexanderClemen
+  subtitle: Chair, TaCoS orga team, Finances
   img: alex.png
   thumbnail: alex.png
   alt: Picture of TBD
   topic: Topic
   description: Alex is a linguist at the HHU with a special interest in Psycho-Neurolinguistics, Creole Languages, and Computational Language Modelling..
-  
 
+- title: "Anna Stein"
+  name: AnnaStein
+  subtitle: Vice chair, Website wizard, TaCoS orga-team
+  img: anna.png
+  thumbnail: anna.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the SLaM lab at HHU.
+  
+- title: "Mogens Mastracchio"
+  name: MogensMastracchio
+  subtitle: TaCoS orga team, Chair in case Anna or Alex die
+  img: platzhalter.png
+  thumbnail: platzhalter.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Mogens is a graduate student in linguistics and has a broad range of interests in multiple topics. He is currently tutoring classes and TAing for Prof. Kilu von Prince and HHU
+  
+- title: "Nele Mastracchio"
+  name: NeleMastraccio
+  subtitle: Website-team, TaCoS orga-team
+  img: platzhalter.png
+  thumbnail: platzhalter.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Nele is a computational linguist with an MA degree in literature translation. She is a member of the SLaM lab at HHU.
+
+- title: "Anh Kim Nguyen"
+  name: AnhKimNguyen
+  subtitle: Designer in charge, Helping the Website-team, TaCoS orga-team
+  img: platzhalter.png
+  thumbnail: platzhalter.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Anh Kim is a graduate student in linguistics with special interest in Phonetics and Phonology and sound symbolism. Anh Kim also works at the SLaM lab and draws silly comics instead of producing research results there.  
+  
+- title: "Emma Stein"
+  name: EmmaStein
+  subtitle: TaCoS orga team
+  img: platzhalter.png
+  thumbnail: platzhalter.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Emma is currently doing her Bachelor's degree in linguistics nad is interested in semantics, pragmatics and everything that involves killing a joke linguistically. 
+          
 - title: "Deniz Ekin Yavaş"
-  name: Deniz Ekin Yavaş
+  name: DenizEkinYavaş
   subtitle: TaCoS orga team
   img: platzhalter.png 
   thumbnail: platzhalter.png
   topic: Topic 
   description: Deniz is a PhD candidate in computational linguistics at Heinrich-Heine University.  
-
-- title: "Emma Stein"
-  name: Emma Stein
-  subtitle: TacoS orga team
-  img: emma.png
-  thumbnail: emma.png
-  topic: Topic
-  description: Emma is currently doing her Bachelor's degree in linguistics nad is interested in semantics, pragmatics and everything that involves killing a joke linguistically. 
-
-
-  #- title: "Deniz Ekin Yavaş"
-  #name: Deniz Ekin Yavaş
-  # subtitle: TaCoS orga team
-  #img: platzhalter.png
-  #thumbnail: platzhalter.png
-  #alt: Picture of TBD
-  #topic: Topic
-  #description: Deniz is a PhD candidate in computational linguistics at Heinrich-Heine University.  
-          
