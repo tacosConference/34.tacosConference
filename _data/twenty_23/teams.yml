@@ -23,7 +23,7 @@
   thumbnail: anna.png
   alt: Picture of TBD
   topic: Topic
-  description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the SLaM lab at HHU.
+  description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
   
 - title: "Mogens Mastracchio"
   name: MogensMastracchio
@@ -32,7 +32,7 @@
   thumbnail: platzhalter.png
   alt: Picture of TBD
   topic: Topic
-  description: Mogens is a graduate student in linguistics and has a broad range of interests in multiple topics. Currently, his favourite language to explore is Korean. He is tutoring classes at HHU and TAing for Prof. Kilu von Prince and HHU
+  description: Mogens is a graduate student in linguistics and has a broad range of interests in multiple topics. Currently, his favourite language to explore is Korean. He is tutoring classes at HHU and TAing for Prof. Kilu von Prince.
   
 - title: "Nele Mastracchio"
   name: NeleMastraccio
@@ -41,7 +41,7 @@
   thumbnail: platzhalter.png
   alt: Picture of TBD
   topic: Topic
-  description: Nele is a computational linguist with an MA degree in literature translation. She is a member of the SLaM lab at HHU.
+  description: Nele is a computational linguist with an MA degree in literature translation. She is a member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
 
 - title: "Anh Kim Nguyen"
   name: AnhKimNguyen
@@ -50,7 +50,7 @@
   thumbnail: platzhalter.png
   alt: Picture of TBD
   topic: Topic
-  description: Anh Kim is a graduate student in linguistics with special interest in Phonetics and Phonology and sound symbolism. Anh Kim also works at the SLaM lab and draws silly comics instead of producing research results there.  
+  description: Anh Kim is a graduate student in linguistics with special interest in Phonetics and Phonology and sound symbolism. Anh Kim also works at the <a href = "https://slam.phil.hhu.de/#people">SLaM lab</a> and draws silly comics instead of producing research results there.  
   
 - title: "Emma Stein"
   name: EmmaStein
