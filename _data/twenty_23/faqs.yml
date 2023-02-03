@@ -1,17 +1,19 @@
+- question: This is the first time I'm going to a conference. What do I do?
+  answer: While it is perfectly fine to go into student talks without knowledge of the topics whatsoever, if you would like to make the most of your experience, it's best you look at the talks lineup (TBA) and create yourself a timetable so you know when to be at what room to listen to topics that interest you the most. Taking notes is completely optional, but part of the fun at conferences is being able to directly ask the speakers about their research, having casual discussions and connecting with people from other universities!
 - question: Do I need to study Computational Linguistics to attend?
   answer: No. If you are interested in learning more about computatinal linguistics, you are at the right place, no matter what you study.
 
 - question: Does the TaCoS pay my travel costs?
-  answer: No. But sometimes (Fachschaften) will pay for your travel. Also consider applying for one of our scholarships!
+  answer: No. But sometimes your linguistics student council / Fachschaften will pay for your travel. Also consider applying for one of our scholarships, provided by our generous sponsors! <a href = "mailto:tacos2023@linguistic.computer"> Shoot us a mail.</a>
 
 - question: I don't live close by. Do I have to book a hotel?
   answer: We provide accomodation! Rooms at a hostel for everyone have been booked for the nights from 28th June to 2nd July. If you still wish to "couchsurf" or sleep over at a friend's house who live close by, by all means! Please do tell us, that you will not be needing accomodation in that case.
+  
+- question: I want to hold a talk, what length should it be?
+  answer: You will have a timeslot of 30 miutes for your talk. Your talk itself should take about 20 miutes, the final 10 are for questions. 
+  
+- question: Is this conference held in English?
+  answer: Traditionally, the TaCoS (and its bigger sister, the StuTS) are held in German, as their aim was to encourage linguistic fields in German-speaking countries. However, this may exclude interested participants from other regions who are not confident in their German skills yet, so students have agreed to give their talks in English whenever needed. This applies to the keynote talks as well, especially since some researchers may come from outside of Germany. 
 
 - question: I want to sponsor the TaCoS, how can I do that?
-  answer: First of all, thank you! Please refer to <a href= "https://tacosconference.github.io/booklet">our booklet</a> and reach out to us. 
-
-- question: I want to hold a talk, what length should it be?
-  answer: You will have a timeslot of 30 miutes for your talk. Your talk itself should take about 20 miutes, the final 10 are for questions.
-  
-- question: This is the first time I'm going to a conference. What can I do to make the most of it?
-  answer: While it is perfectly fine to go into student talks without knowledge of the topics whatsoever, if you would like to make the most of your experience, it's best you look at the talks lineup (TBA) and create yourself a timetable so you know when to be at what room to listen to topics that interest you the most! Taking notes is completely optional, but part of the fun at conferences is being able to directly ask the speakers about their research, having casual discussions and connecting with people from other universities! 
+  answer: First of all, thank you! Please refer to <a href= "https://tacosconference.github.io/booklet">our booklet</a> and reach out to us and we will discuss further details. 
