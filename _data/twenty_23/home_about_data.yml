@@ -1,14 +1,8 @@
-- inverted: 
+- inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the (preliminary) agenda
   link: /agenda
-
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: HHU Düsseldorf
-  info: Learn more about our location
-  link: /venue
 
 - inverted: 
   img: icon-faq.jpeg
