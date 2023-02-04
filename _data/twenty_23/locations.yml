@@ -1,6 +1,6 @@
 - title: "Accomodation"
   name: accomodation
-  subtitle: DJH Jugendherberge Düsseldorf
+  subtitle: <a href = "https://jugendherberge.de/jugendherbergen/duesseldorf-442/portraet/">DJH Jugendherberge Düsseldorf</a>
   img: accomodation.jpg
   thumbnail: accomodation.jpg
   alt: Where you will be sleeping
@@ -8,7 +8,7 @@
 
 - title: "Venue"
   name: venue
-  subtitle: Heinrich-Heine Universität
+  subtitle: <a href = "https://www.hhu.de">Heinrich-Heine Universität</a>
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Where the talks are happening
