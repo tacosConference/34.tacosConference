@@ -1,24 +1,12 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
-
-- inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the (preliminary) agenda
   link: /agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Learn more aobut the team behind the TaCos
-  link: /team
-
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
+  name: HHU Düsseldorf
   info: Learn more about our location
   link: /venue
 
@@ -31,5 +19,5 @@
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Sponsor Booklet
-  info: View or Download our sponsor booklet
+  info: Interested in backing us? Download our sponsor booklet and reach out to us!
   link: https://tacosconference.github.io/css/2023_style/pdfs_etc/32.TaCoS_Brochure.pdf

@@ -1,5 +1,16 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
-
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:30 - 10:00
+  info: "<b>Opening Plenary</b><br><i>ROOM TBA</i><br>Greeting and general information"
+- time: 10:00 - 11:00
+  info: "<b>First keynote talk</b><br><i>ROOM TBA</i><br>Topic of the Keynote talk"
+- time: 11:00-11:15
+  info: "<b>Coffee Break</b><br><i>ROOM TBA</i><br>Networking"
+- time: 11:30-12:30
+  info: "<b>Student talks</b><br><i>ROOM TBA</i><br><i>ROOM TBA</i><br><i>ROOM TBA</i>"  
+- time: 12:30 - 12:45
+  info: "<b>Lunch</b><br><i>ROOM TBA</i>"
+- time: 13:30-15:00
+  info: "<b>Student talks</b><br><i>ROOM TBA</i><br><i>ROOM TBA</i><br><i>ROOM TBA</i>" 
+- time: 15:00 - 15:15
+  info: "<b>Coffee Break </b><br><i>ROOM TBA</i><br>Networking"
+- time: 15:45 - 16:00
+  info: "<b>Second keynote talk</b><br><i>ROOM TBA</i><br>Topic of the Keynote talk"
