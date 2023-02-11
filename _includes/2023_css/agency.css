@@ -711,10 +711,19 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/css/2023_style/img/map-image.png');
-    background-position: center;
-    background-repeat: no-repeat;
+	
+    height: 100%;
+    background-image: url('{{ site.baseurl }}/css/2023_style/img/map-image.jpg');
+	opacity: 0.95;
+	text-align: center;
+    color: #222;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 section#contact .section-heading {
