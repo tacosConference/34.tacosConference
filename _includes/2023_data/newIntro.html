@@ -1,0 +1,54 @@
+<!-- Portfolio Grid Section -->
+    <section id="intro" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row">
+				<div class="col-md-6 speakers-item">
+				<center>
+				<h2 class="section-heading">What is the TaCoS?</h2>
+					<p class="block"> The Tagung der Computerlinguistik-Studierenden (TaCoS) was first organized in 1992 and takes place once every year. It offers students of computational linguistics and adjacent fields a chance to exchange views during talks and workshops. The conference is hosted by teams of student volunteers at their university. Participants traditionally receive accommodation and breakfast in exchange for a small fee. At the center of the conference stand talks, workshops, and poster sessions; each given by students for students. Established academics from the host university are invited as keynote speakers as well. In addition, there is a social program for everyone to connect and network.
+					<br>
+					This year marks the 32. TaCoS and our team at Heinrich-Heine University in Düsseldorf is proud to host the event this summer.
+					</p>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSfuQaKA4w67P2gnkGZPbSFiQEJyqMo2YlbWww-Wh5rXL-8Xdg/viewform" class="page-scroll btn btn-sm">Sign up for the newsletter</a>
+				<p><a href="https://linguistik.computer/">Previous TaCoS conferences</a></p> 
+				<ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                    {% endfor %}
+                </ul>
+				</center>				
+				</div>
+				<div class="col-md-6 speakers-item">
+					<center>
+					<h2 class="section-heading">Important Dates</h2>
+					<h1 class="section-heading">Registration</h3>
+					<div class="biggertext">
+						<ul>
+							<li>Opens February 27th</li>
+							<li>Closes June 1st</li>
+						</ul>
+						<a href="INSERT REGISTRATION LINK HERE" class="page-scroll btn btn-sm">Register </a>
+					</div>
+					<br>
+					<h1 class="section-heading">Call for Papers</h3>
+						<div class="biggertext">
+							<center>
+							<ul class="mylist">
+								<li>Opens March 10th</li>
+								<li>Closes April 10th</li>
+							</ul>
+							</center>
+							Notice of acceptance will be sent by <b>May 22th</b>.
+							<br>						
+							<a href="INSERT CFP LINK HERE" class="btn-sm">Submit your abstract</a>
+						</div>
+					</center>					
+				</div>
+            </div>
+        </div>
+    </section>

@@ -53,6 +53,10 @@ p {
 	font-size: 110%;
 }
 
+p.block {
+	text-align: justify
+}
+
 p.large {
     font-size: 120%;
 }
@@ -178,6 +182,25 @@ fieldset[disabled] .btn-primary.active {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
 }
+
+.biggertext {
+	font-size: 1.3em;
+}
+
+/*
+.container {
+      display:flex;
+	  flex-direction: row;
+	  flex-wrap: nowrap;
+	  justify-content: center;
+	  align-items: flex-start;
+	  align-content: flex-start;
+    }
+	
+.item {
+  flex-grow: 5; /* default 0 */
+}
+*/
 
 .btn-sm:hover,
 .btn-sm:focus,
@@ -825,6 +848,21 @@ ul.social-buttons li a {
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+}
+/*
+ul.mylist {
+    text-align: left;
+    list-style-position: inside;
+}*/
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+li span {
+	position: relative;
+	left: 0px;
+	right: 100px;
 }
 
 ul.social-buttons li a:hover,
