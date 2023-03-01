@@ -14,10 +14,19 @@
   alt: Where the talks are happening
   description: Foto Ⓒ Heinrich-Heine-Universität-Düsseldorf<br>Our beloved Alma Mater in her entire brutalist architecture glory. The campus of the HHU stretches nearly 4km long, but the conference will take place inside of the newly refurbished building 23.21, which houses the linguistics department, the PC-pools, and the cafeteria of the humanities department. The lecture halls, rooms, and floors that are reserved for keynote- and student talks, poster presentations etc. will be announced soon.
 
-- title: "Other places"
-  name: Name
-  subtitle: In planning
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Other places that you will be going
-  description: Fun places to take you all :)
+- title: "Special Venue"
+  name: special venue
+  subtitle: <a href = "https://www.hdu.hhu.de">Haus der Universität</a>
+  img: HDU.jpg
+  thumbnail: HDU.jpg
+  alt: Where special events are happening.
+  description: Foto Ⓒ Sigurd Steinprinz. 
+
+
+# - title: "Other places"
+#   name: Name
+#   subtitle: In planning
+#   img: TBD.jpg
+#   thumbnail: TBD.jpg
+#   alt: Other places that you will be going
+#   description: Fun places to take you all :)
