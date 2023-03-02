@@ -849,11 +849,12 @@ ul.social-buttons li a {
     -moz-transition: all .3s;
     transition: all .3s;
 }
-/*
+
 ul.mylist {
-    text-align: left;
-    list-style-position: inside;
-}*/
+	list-style-position: outside;
+    display: inline-block;
+	text-align: left;
+}
 
 ul {
     text-align: center;
