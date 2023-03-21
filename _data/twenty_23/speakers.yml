@@ -16,14 +16,14 @@
   topic: TBD
   description: Postdoctoral researcher and lecturer at Heinrich-Heine University.
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Prof. Dr. Kevin Tang
+  name: KevinTang
+  subtitle: University Professor
+  img: tang.jpg
+  thumbnail: tang.jpg
+  alt: Picture of Tang
+  topic: Computational models in Parkinson's Disease research
+  description: Speech can be used as a non-invasive biomarker to capture fine changes in speech patterns in normal populations and individuals diagnosed with neuromotor disorders, such as Parkinson's Disease (PD). In this talk, I will demonstrate how computational models that are linguistically-informed can quantify acoustic and syntactic variations in PD patients.
 
 - title: Name
   name: Name-4
