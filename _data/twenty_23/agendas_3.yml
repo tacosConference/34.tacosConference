@@ -1,14 +1,14 @@
 - time: 10:00 - 11:00
-  info: "<b>Student talks</b><br><i>Seminar Rooms</i><br><i>ROOM TBA</i><br><i>ROOM TBA</i>"
+  info: "<b>Student talks</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"
 - time: 11:00-11:30
   info: "<b>Coffee Break</b><br><i>Foyer</i><br>Networking"
 - time: 11:30-12:30
-  info: "<b>Workshops</b><br><i>Seminar Rooms</i><br><i>ROOM TBA</i><br><i>ROOM TBA</i>"  
+  info: "<b>Workshops</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"  
 - time: 12:30 - 14:00
   info: "<b>Lunch</b><br><i>University Mensa</i>"
-- time: 13:30-15:30
-  info: "<b>Fifth keynote talk</b><br><i>Lecture Hall</i><br>Topic of the Keynote talk" 
+- time: 14:00-15:30
+  info: "<b>Keynote talk by University Prof. Dr. Kevin Tang</b><br><i>Lecture Hall　3F</i><br>The use of computational models to determine acoustic and syntactic variations in Parkinson's Disease patients." 
 - time: 15:00 - 16:00
-  info: "<b>Closing plenary</b><br><i>Lecture Hall</i><br>Closing talk from the organisation team, thanks and shoutouts"
+  info: "<b>Closing plenary</b><br><i>Lecture Hall　3F</i><br>Closing talk from the organisation team, thanks and shoutouts"
 - time: 20:15 - Open
-  info: "<b>Boardgames</b><br><i>Seminar Room</i><br>Socialising time"
+  info: "<b>Boardgames</b><br><i>Seminar Room　23.21.00.044</i><br>Socialising time"

@@ -1,14 +1,14 @@
 - time: 10:00 - 11:00
-  info: "<b>Third keynote talk</b><br><i>Lecture Hall</i><br>Greeting and general information"
+  info: "<b>Third keynote talk</b><br><i>Lecture Hall　3F</i><br>Greeting and general information"
 - time: 11:00-11:30
   info: "<b>Coffee Break</b><br><i>Foyer</i><br>Networking"
 - time: 11:30-12:30
-  info: "<b>Student talks</b><br><i>Seminar Rooms</i><br><i>ROOM TBA</i><br><i>ROOM TBA</i>"  
+  info: "<b>Student talks</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"  
 - time: 12:30 - 13:30
   info: "<b>Lunch</b><br><i>University Mensa</i>"
 - time: 13:30-15:30
-  info: "<b>Career fair</b><br><i>Seminar Rooms</i><br>Opportunity to discover future career paths" 
+  info: "<b>Career fair</b><br><i>Seminar Rooms　23.21.00.044 .046 .048</i><br>Opportunity to discover future career paths" 
 - time: 15:30 - 16:30
-  info: "<b>Fourth keynote talk</b><br><i>Lecture Hall</i><br>Topic of the Keynote talk"
+  info: "<b>Fourth keynote talk</b><br><i>Lecture Hall　3F</i><br>Topic of the Keynote talk"
 - time: 20:15 - Open
   info: "<b>Pub Quiz</b><br><i>O'Reilly's Pub</i><br>Socialising time"
