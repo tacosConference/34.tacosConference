@@ -3,7 +3,7 @@
   subtitle: Former chair, TaCoS orga-team
   img: luuk.png
   thumbnail: luuk.png
-  alt: Picture of TBD
+  alt: Picture of Luuk
   topic: Topic
   description: Luuk was a PhD candidate in computational semantics at HHU.
 
@@ -12,7 +12,7 @@
   subtitle: Chair, TaCoS orga team, Finances
   img: alex.png
   thumbnail: alex.png
-  alt: Picture of TBD
+  alt: Picture Alex
   topic: Topic
   description: Alex is a linguist at the HHU with a special interest in Psycho-Neurolinguistics, Creole Languages, and Computational Language Modelling.
 
@@ -21,34 +21,34 @@
   subtitle: Vice chair, Website wizard, TaCoS orga-team
   img: anna.png
   thumbnail: anna.png
-  alt: Picture of TBD
+  alt: Picture of Anna
   topic: Topic
   description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
   
 - title: "Mogens Mastracchio"
   name: MogensMastracchio
   subtitle: TaCoS orga team, Chair during emergencies
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
+  img: TBD3.png
+  thumbnail: TBD3.png
+  alt: Picture of a wug in a Tacos
   topic: Topic
   description: Mogens is a graduate student in linguistics and has a broad range of interests in multiple topics. Currently, his favourite language to explore is Korean. He is tutoring classes at HHU and TAing for Prof. Kilu von Prince.
   
 - title: "Nele Mastracchio"
   name: NeleMastraccio
   subtitle: Website-team,<br>TaCoS orga-team
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
+  img: TBD2.png
+  thumbnail: TBD2.png
+  alt: Picture of Sauce Symbolism
   topic: Topic
   description: Nele is a computational linguist with an MA degree in literature translation. She is a member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
 
 - title: "Anh Kim Nguyen"
   name: AnhKimNguyen
   subtitle: Designer in charge,<br>Website-team
-  img: platzhalter.png
-  thumbnail: platzhalter.png
-  alt: Picture of TBD
+  img: TBD.png
+  thumbnail: TBD.png
+  alt: Picture of an Awugado
   topic: Topic
   description: Anh Kim is a graduate student in linguistics with special interest in Phonetics and Phonology and sound symbolism. Anh Kim also works at the <a href = "https://slam.phil.hhu.de/#people">SLaM lab</a> and draws silly comics instead of producing research results there.  
   
@@ -64,7 +64,7 @@
 - title: "Deniz Ekin Yavaş"
   name: DenizEkinYavaş
   subtitle: TaCoS orga team
-  img: platzhalter.png 
-  thumbnail: platzhalter.png
+  img: TBD2.png 
+  thumbnail: TBD2.png
   topic: Topic 
   description: Deniz is a PhD candidate in computational linguistics at Heinrich-Heine University.  
