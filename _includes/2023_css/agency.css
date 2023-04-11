@@ -28,6 +28,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+bg-attention {
+    background-color: #FFBA01;
+}
+
 @media screen and (max-width : 1200px){
   body {
       padding-bottom: 100px;
