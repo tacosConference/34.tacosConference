@@ -1,7 +1,7 @@
 - time: 9:30 - 10:00
   info: "<b>Opening Plenary</b><br><i>Lecture Hall　3F</i><br>Greeting and general information"
 - time: 10:00 - 11:00
-  info: "<b>Keynote talk by Dr. Killian Evang</b><br><i>Lecture Hall　3F</i><br>Semantic Roles for Semantic Parsing: Lessons Learned and Future Directions"
+  info: "<b>Keynote talk by Dr. Yulia Zinova</b><br><i>Lecture Hall　3F</i><br>Word embeddings and morphology - Do language models learn what linguists are describing?<br>"
 - time: 11:00-11:30
   info: "<b>Coffee Break</b><br><i>Foyer</i><br>Networking"
 - time: 11:30-12:30
@@ -13,6 +13,6 @@
 - time: 15:00 - 15:45
   info: "<b>Coffee Break </b><br><i>Foyer</i><br>Networking"
 - time: 15:45 - 16:00
-  info: "<b>Second keynote talk</b><br><i>Lecture Hall　3F</i><br>Topic of the Keynote talk"
+  info: "<b>Dr. Killian Evang</b><br><i>Lecture Hall　3F</i><br>Semantic Roles for Semantic Parsing: Lessons Learned and Future Directions"
 - time: 19:00 - Open
   info: "<b>Welcome Reception</b><br><i>Haus der Universität</i><br>Welcoming talk from the organisation team"
