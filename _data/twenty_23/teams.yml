@@ -1,6 +1,6 @@
 - title: "Luuk Suurmeijer"
   name: LuukSuurmeijer
-  subtitle: Former chair, TaCoS orga-team
+  subtitle: Former chair, TaCoS Orga-Team
   img: luuk.png
   thumbnail: luuk.png
   alt: Picture of Luuk
@@ -9,7 +9,7 @@
 
 - title: "Alexander Clemen"
   name: AlexanderClemen
-  subtitle: Chair, TaCoS orga team, Finances
+  subtitle: Chair, TaCoS Orga-Team, Finances
   img: alex.png
   thumbnail: alex.png
   alt: Picture Alex
@@ -18,16 +18,16 @@
 
 - title: "Anna Stein"
   name: AnnaStein
-  subtitle: Vice chair, Website wizard, TaCoS orga-team
+  subtitle: Vice chair, Website wizard, TaCoS Orga-Team
   img: anna.png
   thumbnail: anna.png
   alt: Picture of Anna
   topic: Topic
-  description: Anna is finishing her Bachelor's thesis in Linguistics on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
+  description: Anna is a Master's student of Linguistics at HHU. She wrote her Bachelor's thesis on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>. Learn more about her <a href = "https://ansost.github.io">here</a>.
   
 - title: "Mogens Mastracchio"
   name: MogensMastracchio
-  subtitle: TaCoS orga team, Chair during emergencies
+  subtitle: TaCoS Orga-Team, Chair during emergencies
   img: TBD3.png
   thumbnail: TBD3.png
   alt: Picture of a wug in a Tacos
@@ -36,7 +36,7 @@
   
 - title: "Nele Mastracchio"
   name: NeleMastraccio
-  subtitle: Website-team,<br>TaCoS orga-team
+  subtitle: Website-team,<br>TaCoS Orga-Team
   img: TBD2.png
   thumbnail: TBD2.png
   alt: Picture of Sauce Symbolism
@@ -54,7 +54,7 @@
   
 - title: "Emma Stein"
   name: EmmaStein
-  subtitle: TaCoS orga team
+  subtitle: TaCoS Orga-Team, Communications 
   img: emma.png
   thumbnail: emma.png
   alt: Picture of TBD
@@ -63,7 +63,7 @@
           
 - title: "Deniz Ekin Yavaş"
   name: DenizEkinYavaş
-  subtitle: TaCoS orga team
+  subtitle: TaCoS Orga-Team
   img: TBD2.png 
   thumbnail: TBD2.png
   topic: Topic 
