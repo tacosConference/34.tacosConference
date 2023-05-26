@@ -1,6 +1,6 @@
 - title: Dr. Yulia Zinova
   name: YuliaZinova
-  subtitle: Postdoctoral researcher
+  subtitle: Postdoctoral Researcher
   img: zinova.jpg
   thumbnail: zinova.jpg
   alt: Picture of Zinova
@@ -9,7 +9,7 @@
 
 - title: Dr. Killian Evang
   name: KillianEvang
-  subtitle: Postdoctoral researcher
+  subtitle: Postdoctoral Researcher
   img: evang.jpg
   thumbnail: evang.jpg
   alt: Picture of Evang
@@ -27,13 +27,22 @@
 
 - title: Dr. Nurul Lubis
   name: NurulLubis
-  subtitle: Postdoctoral researcher
+  subtitle: Postdoctoral Researcher
   img: lubis.jpg
   thumbnail: lubis.jpg
   alt: Picture of Lubis
+  topic: Dialogue evaluation via Offline Reinforcement Learning and Emotion Prediction
+  description: Task-oriented dialogue systems aim to fulfill user goals, such as booking hotels or searching for restaurants, through natural language interactions. They are ideally evaluated through interaction with human users. However, this is unattainable to do at every iteration of the development phase due to time and financial constraints. Therefore, researchers resort to static evaluation on dialogue corpora. Although they are more practical and easily reproducible, they do not fully reflect real performance of dialogue systems. Can we devise an evaluation that keeps the best of both worlds? In this talk I explore the usage of offline reinforcement learning and emotion prediction for dialogue evaluation that is practical, reliable, and strongly correlated with human judgements.
+
+- title: Apl.-Prof. Dr. Wiebke Petersen
+  name: WiebkePetersen
+  subtitle: Supernumerary Professor 
+  img: TBD.png
+  thumbnail: TBD.png
+  alt: Picture of Petersen
   topic: In progress
-  description: We are waiting for some more info on the topic, please check back later!
-  
+  description: More details will be announced soon, please check back later!
+
 #- title: Name
 #  name: Name-4
 #  subtitle: Position
