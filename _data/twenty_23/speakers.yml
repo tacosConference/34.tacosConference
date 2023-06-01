@@ -5,7 +5,7 @@
   thumbnail: zinova.jpg
   alt: Picture of Zinova
   topic: Word Embeddings and Morphology - Do language models learns what linguists are describing?
-  description: Postdoctoral researcher and lecturer at Heinrich-Heine University. 
+  description: Language models seem to "understand" natural language to some extent - some well-known systems can answer questions, provide summaries, write abstracts, etc. At the same time, these systems dramatically fail at some tasks a preschool child can easily complete. As a linguist, I'm interested not only in improving the performance of language models in the downstream tasks, but also in understanding what these models learn and how does it relate to the assumptions and findings in theoretical linguistics. In this talk I will present some of the ongoing research on morphology with static embeddings. I will talk about what kind of information gets implicitly learned, which limitations the models face and how linguistic knowledge can be used to boost performance of language models, especially for languages with less resources and/or rich morphology.
 
 - title: Dr. Killian Evang
   name: KillianEvang
