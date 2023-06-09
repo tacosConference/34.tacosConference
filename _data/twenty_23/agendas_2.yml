@@ -1,14 +1,20 @@
+- time: 9:45 - 10:00
+  info: "<b>Day 2 Overview</b> <i>Lecture Hall　3F</i><br>Information for the day"
 - time: 10:00 - 11:00
-  info: "<b>Third keynote talk</b><br><i>Lecture Hall　3F</i><br>Greeting and general information"
+  info: "<b>Keynote talk by Dr Nurul Lubis</b> <i>Lecture Hall　3F</i><br>TBA"
 - time: 11:00-11:30
-  info: "<b>Coffee Break</b><br><i>Foyer</i><br>Networking"
-- time: 11:30-12:30
-  info: "<b>Student talks</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"  
-- time: 12:30 - 13:30
-  info: "<b>Lunch</b><br><i>University Mensa</i>"
+  info: "<b>Coffee Break</b> <i>23.21.00.44</i><br>Networking"
+- time: 11:30-12:00
+  info: "<b>Student talk</b> <i>Seminar Room　23.21.00.046</i><br>Microsyntactic Unit Analysis using Word Embedding Models - Experiments on Slavic Languages<hr><b>Student talk</b>  <i>Seminar Room　23.21.00.048</i><br>Exploring Song Topics Across Different Countries - A Latent Dirichlet Allocation Approach"  
+- time: 12:05-12:30
+  info: "<b>Student talk</b> <i>Seminar Room　23.21.00.046</i><br>Evaluation or Russian Noun Word Embeddings For Cases and a Number<hr><b>Student talk</b>  <i>Seminar Room　23.21.00.048</i><br>How do You measures Style (And Much More)"
+- time: 12:35 - 13:30
+  info: "<b>Lunch</b> <i>University Mensa</i>"
 - time: 13:30-15:30
-  info: "<b>Career fair</b><br><i>Seminar Rooms　23.21.00.044 .046 .048</i><br>Opportunity to discover future career paths" 
+  info: "<b>Career Networking Meet-up</b> <i>Seminar Room　23.21.00.044 </i><br>Opportunity to discover future career paths and learn from people in the industry. Sponsors from industry and academics from HHU will be there to tell you about their careers in computational linguistics." 
 - time: 15:30 - 16:30
-  info: "<b>Fourth keynote talk</b><br><i>Lecture Hall　3F</i><br>Topic of the Keynote talk"
-- time: 20:15 - Open
-  info: "<b>Pub Quiz</b><br><i>O'Reilly's Pub</i><br>Socialising time"
+  info: "<b>Keynote talk by Apl.Prof Wiebke Petersen</b> <i>Lecture Hall　3F</i><br>TBA"
+- time: 16:30 - Open
+  info: "<b>Boardgames</b><br><br>Socialising time"
+- time: 20:00 - Open
+  info: "<b>Social time in the Altstadt</b><br><br>Socialising time"

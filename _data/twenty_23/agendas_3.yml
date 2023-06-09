@@ -1,14 +1,21 @@
-- time: 10:00 - 11:00
-  info: "<b>Student talks</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"
-- time: 11:00-11:30
-  info: "<b>Coffee Break</b><br><i>Foyer</i><br>Networking"
-- time: 11:30-12:30
-  info: "<b>Workshops</b><br><i>Seminar Room　23.21.00.044</i><br><i>Seminar Room　23.21.00.046</i><br><i>Seminar Room　23.21.00.048</i>"  
-- time: 12:30 - 14:00
-  info: "<b>Lunch</b><br><i>University Mensa</i>"
-- time: 14:00-15:30
-  info: "<b>Keynote talk by University Prof. Dr. Kevin Tang</b><br><i>Lecture Hall　3F</i><br>The use of computational models to determine acoustic and syntactic variations in Parkinson's Disease patients." 
-- time: 15:00 - 16:00
-  info: "<b>Closing plenary</b><br><i>Lecture Hall　3F</i><br>Closing talk from the organisation team, thanks and shoutouts"
-- time: 20:15 - Open
-  info: "<b>Boardgames</b><br><i>Seminar Room　23.21.00.044</i><br>Socialising time"
+- time: 9:45-10:00
+  info: "<b>Day 3 Overview</b> <i>Seminar Room　23.21.00.046</i> <i>Seminar Room　23.21.00.048</i><br> Information for the day"
+- time: 10:00-11:05
+  info: "<b>Workshop</b> <i>Seminar Room　23.21.00.048</i><br>From Zero to Terminal Hero"
+- time: 10:00-10:30
+  info: "<b>Student talk</b> <i>Seminar Room　23.21.00.046</i><br>Google Cloud Speech-to-Text API - An Accuracy Anlysis Based on a Non-Standard Spanish Corpus"
+- time: 10:35-11:05
+  info: "<b>Student talk</b> <i>Seminar Room　23.21.00.046</i><br>One Parent one language, one child two Grammars"
+- time: 11:05-11:30
+  info: "<b>Coffee Break</b> <i>Seminar Room 23.21.00.44</i><br>Networking"
+- time: 11:30-12:00
+  info: "<b>Workshop</b> <i>Seminar Room　23.21.00.046</i><br>One word, a thousand pictures. Text to image Generation with Stable Diffusion<hr><b>Workshop</b>  <i>Seminar Room　23.21.00.048</i><br>Hey Mycroft, let's play a game! - Developing skills for an open source voice assistant" 
+- time: 12:30 - 13:30
+  info: "<b>Lunch</b><i>Seminar Room　23.21.00.044</i>"
+- time: 15:00-16:00
+  info: "<b>Keynote talk by Univ. Prof. Dr. Kevin Tang</b> <i>Haus der Universität</i><br>The use of computational models to determine acoustic and syntactic variations in Parkinson's Disease patients." 
+- time: 16:00 - Open
+  info: "<b>Closing plenary</b><i>Haus der Universität</i><br>Closing talk from the organisation team, thanks and shoutouts"
+- time: Open
+  info: "<b>Social Time</b><br>Socialising time"
+  
