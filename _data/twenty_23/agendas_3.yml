@@ -4,11 +4,11 @@
   info: "<b>Workshop</b> <i>Seminar Room 23.21.00.048</i><br>From Zero to Terminal Hero"
 - time: 10:00-10:30
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>Google Cloud Speech-to-Text API - An Accuracy Analysis Based on a Non-Standard Spanish Corpus"
-- time: 10:35-11:05
+- time: 10:40-11:10
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>One Parent one language, one child two Grammars"
-- time: 11:05-11:30
+- time: 11:10-11:30
   info: "<b>Coffee Break</b> <i>Seminar Room 23.21.00.44</i><br>Networking"
-- time: 11:30-12:00
+- time: 11:30-12:30
   info: "<b>Workshop</b> <i>Seminar Room 23.21.00.046</i><br>One word, a thousand pictures. Text to image Generation with Stable Diffusion<hr><b>Workshop</b>  <i>Seminar Room 23.21.00.048</i><br>Hey Mycroft, let's play a game! - Developing skills for an open source voice assistant" 
 - time: 12:30 - 13:30
   info: "<b>Lunch</b><i>Seminar Room 23.21.00.044</i>"

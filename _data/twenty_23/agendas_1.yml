@@ -8,19 +8,19 @@
   info: "<b>Coffee Break</b> <i>Room 23.21.00.44</i><br>Networking"
 - time: 11:30-12:00
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>Throwing Shaders at Language Models - Evaluating Creative Code Generation<hr><b>Student talk</b> <i>Seminar Room 23.21.00.048</i><br>An Exploration of translanguaging on Social Media by Hispanic International Students in the United States"  
-- time: 12:05-12:35
+- time: 12:10-12:40
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>Machine Transliteration between two Persian Dialects - The Case of Farsi and Tajiki<hr><b>Student talk</b> <i>Seminar Room 23.21.00.048</i><br>Modal Verbs and Belief Systems - How Iranian And Italian Speakers Express themselves"  
-- time: 12:35 - 13:30
+- time: 12:40 - 13:40
   info: "<b>Lunch</b><br><i>University Mensa</i>"
-- time: 13:30-14:00
+- time: 13:40-14:10
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>BART meets Macbeth - Summarization of Shakespeare's plays with BART based models<hr><b>Student talk</b> <i>Seminar Room 23.21.00.048</i><br>
 Lexicon-based data synthesis for Swiss German NLP"  
-- time: 14:05-14:35
+- time: 14:20-14:50
   info: "<b>Student talk</b> <i>Seminar Room 23.21.00.046</i><br>Language Revitalization - A case for Idu Mishmi<hr><b>Student talk</b>  <i>Seminar Room 23.21.00.048</i><br>
 Coronaleugnerchats auf Telegram - Ein distinktiver Schreibstil?"  
-- time: 14:35 - 15:00
+- time: 14:50 - 15:30
   info: "<b>Coffee Break </b><br><i>Seminar Room 23.21.00.048</i><br>Networking"
-- time: 15:00 - 16:00
+- time: 15:30 - 16:30
   info: "<b>Keynote talk by Dr. Kilian Evang</b> <i>Lecture Hall 3F</i><br>Semantic Roles for Semantic Parsing - Lessons Learned and Future Directions"
-- time: 16:00 - Open
+- time: 16:30 - Open
   info: "<b>Social Time</b>"
