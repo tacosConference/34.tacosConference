@@ -1,5 +1,5 @@
 - time: 9:45-10:00
-  info: "<b>Day 3 Overview</b> <i>Seminar Room 23.21.00.046</i> <i>Seminar Room 23.21.00.048</i><br> Information for the day"
+  info: "<b>Day 3 Overview</b> <i>Seminar Room 23.21.00.046</i>, <i>Seminar Room 23.21.00.048</i><br> Information for the day"
 - time: 10:00-11:00
   info: "<b>Workshop</b> <i>Seminar Room 23.21.00.048</i><br><details><summary>▼ From Zero to Terminal Hero</summary>[SLIDES]<br>This workshop will provide an introduction to the Linux terminal and Vim editor. You will learn how to navigate and manipulate files and directories using terminal interface, as well as execute basic system operations such as managing processes and installing softwares.\n\nThe second half of the workshop will focus on the introduction to the Vim editor, a powerful and customizable text editor widely used by programmers. You will learn how to navigate, edit, and save files in Vim, and other commonly-used commands.\n\nBy the end of the workshop, you will have gained a solid foundation in using both Terminal and Vim, and be able to use it confidently in your daily work.\n\n---Pre-requisites---\nFor Windows Users:\nYou need to have WSL2 installed on your laptop before the session. You can do so by following this guide: <a href='https://docs.slam.phil.hhu.de/#/wsl'>https://docs.slam.phil.hhu.de/#/wsl</a>\n\nFor MacOS Users:\nNo prerequisites required.\n\nFor Linux Users:\nNo prerequisites required.</details>"
 - time: 11:10-11:30
@@ -9,7 +9,7 @@
 - time: 12:40 - 13:30
   info: "<b>Lunch</b><i> Seminar Room 23.21.00.044</i>"
 - time: 14:30-15:00
-  info: "<b>Snacks</b><i> Haus der Universität>" 
+  info: "<b>Snacks</b><i> Haus der Universität</i>" 
 - time: 15:00-16:00
   info: "<b>Keynote talk by Univ. Prof. Dr. Kevin Tang</b> <i>Haus der Universität</i><br><details><summary>▼The use of computational models to determine acoustic and syntactic variations in Parkinson's Disease patients.</summary>[SLIDES]<br>Speech can be used as a non-invasive biomarker to capture fine changes in speech patterns in normal populations and individuals diagnosed with neuromotor disorders, such as Parkinson's Disease (PD).\nIn this talk, I will demonstrate how computational models that are linguistically-informed can quantify acoustic and syntactic variations in PD patients.</details>" 
 - time: 16:00 - Open
