@@ -1,27 +1,26 @@
-- title: "Accommodation"
-  name: accommodation
-  subtitle: <a href = "https://jugendherberge.de/jugendherbergen/duesseldorf-442/portraet/">DJH Jugendherberge Düsseldorf</a>
-  img: accomodation.jpg
-  thumbnail: accomodation_thum.jpg
-  alt: Where you will be sleeping 
-  description: Foto Ⓒ Jugendherberge Düsseldorf<br>Düsseldorfer Str. 1,<br>40545 Düsseldorf<br>From here, you can reach the venue <a href ="https://www.google.com/maps/dir/University+Dusseldorf:+Humanities,+Universit%C3%A4tsstra%C3%9Fe+1,+40225+D%C3%BCsseldorf,+Germany/DJH+Jugendherberge+D%C3%BCsseldorf,+D%C3%BCsseldorfer+Str.+1,+40545+D%C3%BCsseldorf/@51.2073217,6.7410264,13z/data=!3m2!4b1!5s0x47b8ca05e12f93d7:0x3dd099896c7809d7!4m18!4m17!1m5!1m1!1s0x47b8cb002ac3e3c3:0xe100c7ca17c2a04e!2m2!1d6.7946577!2d51.1893431!1m5!1m1!1s0x47b8ca05e1ed2abb:0x3d17d218c2ba6960!2m2!1d6.7577514!2d51.2268091!2m3!6e0!7e2!8j1674637200!3e3">by bus in only 20 minutes</a>. In the unlikely case that you would like to skip some talks during the conference, you may take a stroll at the Rhine or just go to town and enjoy Düsseldorf, which is right on the other side of the river.
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  description: TBD
 
-- title: "Venue"
-  name: venue
-  subtitle: <a href = "https://www.hhu.de">Heinrich-Heine-Universität</a>
-  img: HHU2.jpg
-  thumbnail: HHU1.jpg
-  alt: Where the talks are happening
-  description: Foto Ⓒ Heinrich-Heine-Universität-Düsseldorf<br>Our beloved Alma Mater in her entire brutalist architecture glory. The campus of the HHU stretches nearly 4km long, but the conference will take place inside of the newly refurbished building 23.21, which houses the linguistics department, the PC-pools, and the cafeteria of the humanities department. The lecture halls, rooms, and floors that are reserved for keynote, and student talks, poster presentations etc. will be announced soon.
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  description: TBD
 
-- title: "Special Venue"
-  name: specialvenue
-  subtitle: <a href = "https://www.hdu.hhu.de">Haus der Universität</a>
-  img: HDU.jpg
-  thumbnail: HDU.jpg
-  alt: Where special events are happening.
-  description: Foto Ⓒ Sigurd Steinprinz. <br> This "House of the University" was built in 1897 and was originally not operated by the HHU and its friends. Since 2013, It serves as an oasis of knowledge in the city center and hosts public events, conferences and exhibitions. We managed to book a day or two here, so the conference can get a proper opening with some grand, and official air around it.
-
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  description: TBD
 
 # - title: "Other places"
 #   name: Name

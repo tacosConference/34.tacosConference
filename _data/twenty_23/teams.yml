@@ -1,70 +1,28 @@
-- title: "Luuk Suurmeijer"
-  name: LuukSuurmeijer
-  subtitle: Former chair, TaCoS Orga-Team
-  img: luuk.png
-  thumbnail: luuk.png
-  alt: Picture of Luuk
-  topic: Topic
-  description: Luuk was a PhD candidate in computational semantics at HHU.
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  topic: TBD
+  description: TBD
 
-- title: "Alexander Clemen"
-  name: AlexanderClemen
-  subtitle: Chair, TaCoS Orga-Team, Finances
-  img: alex.jpeg
-  thumbnail: alex.jpeg
-  alt: Picture Alex
-  topic: Topic
-  description: Alex is a linguist at the HHU with a special interest in Psycho- and Neurolinguistics, Creole Languages, and Computational Language Modelling. Learn more about him on his website <a href = "http://alexander-clemen.de/">here</a>
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  topic: TBD
+  description: TBD
 
-- title: "Anna Stein"
-  name: AnnaStein
-  subtitle: Vice chair, Website wizard, TaCoS Orga-Team
-  img: anna.png
-  thumbnail: anna.png
-  alt: Picture of Anna
-  topic: Topic
-  description: Anna is a Master's student of Linguistics at HHU. She wrote her Bachelor's thesis on modeling probabilistic reduction with NDL and is mainly interested in Phonetics/Phonology and computational linguistics. Anna is also member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>. Learn more about her <a href = "https://ansost.github.io">here</a>.
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: TBD
+  topic: TBD
+  description: TBD
   
-- title: "Mogens Mastracchio"
-  name: MogensMastracchio
-  subtitle: TaCoS Orga-Team, Chair during emergencies
-  img: TBD3.png
-  thumbnail: TBD3.png
-  alt: Picture of a wug in a Tacos
-  topic: Topic
-  description: Mogens is a graduate student in linguistics and has a broad range of interests in multiple topics. Currently, his favourite language to explore is Korean. He is tutoring classes at HHU and TAing for Prof. Kilu von Prince.
-  
-- title: "Nele Mastracchio"
-  name: NeleMastraccio
-  subtitle: Website-team,<br>TaCoS Orga-Team
-  img: TBD2.png
-  thumbnail: TBD2.png
-  alt: Picture of Sauce Symbolism
-  topic: Topic
-  description: Nele is a computational linguist with an MA degree in literature translation. She is a member of the <a href = "https://slam.phil.hhu.de/#people">SLaM lab at HHU</a>.
 
-- title: "Anh Kim Nguyen"
-  name: AnhKimNguyen
-  subtitle: Designer in charge,<br>Website-team
-  img: TBD.png
-  thumbnail: TBD.png
-  alt: Picture of an Awugado
-  topic: Topic
-  description: Anh Kim is a graduate student in linguistics with special interest in Phonetics and Phonology and sound symbolism. Anh Kim also works at the <a href = "https://slam.phil.hhu.de/#people">SLaM lab</a> and draws silly comics instead of producing research results there.  
-  
-- title: "Emma Stein"
-  name: EmmaStein
-  subtitle: TaCoS Orga-Team, Communications 
-  img: emma.png
-  thumbnail: emma.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Emma is currently doing her Bachelor's degree in linguistics and is interested in semantics, pragmatics and everything that involves killing a joke linguistically. 
-          
-- title: "Deniz Ekin Yavaş"
-  name: DenizEkinYavaş
-  subtitle: TaCoS Orga-Team
-  img: TBD2.png 
-  thumbnail: TBD2.png
-  topic: Topic 
-  description: Deniz is a PhD candidate in computational linguistics at Heinrich-Heine University.  

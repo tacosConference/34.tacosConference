@@ -1,8 +1,8 @@
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the (preliminary) agenda
-  link: /agenda
+#- inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  name: Agenda
+#  info: Check out the (preliminary) agenda
+#  link: /agenda
 
 - inverted: 
   img: icon-faq.jpeg
@@ -10,8 +10,8 @@
   info: Have a Question? Many answers can be found right here in our FAQs
   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Sponsor Booklet
-  info: Interested in backing us? Download our sponsor booklet and reach out to us!
-  link: https://tacosconference.github.io/css/2023_style/pdfs_etc/32.TaCoS_Brochure.pdf
+#- inverted: timeline-inverted
+ # img: booklet-icon.png
+ # name: Sponsor Booklet
+ # info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
+ # link: ""
