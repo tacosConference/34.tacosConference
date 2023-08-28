@@ -1,5 +1,4 @@
 # Website guide
-Generate table of contents
 * [Introduction](#introduction)
 * [The main page](#the-main-page)
 * [Sections](#sections)
