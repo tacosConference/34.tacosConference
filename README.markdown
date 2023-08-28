@@ -4,7 +4,7 @@ This is the website for the 2023 `Tagung der Computerlinguistik Studierenden` in
 > If you want to use this website as a **template** for your conference/event, follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 ## Website Documentation
-A basic documentation on how to use this website can be foun in the [wiki](https://github.com/tacosConference/tacosConference.github.io/wiki/Basic-Website-Documentation) of this repository.
+Detailed information on how to use this website can be found in the [wiki](https://github.com/tacosConference/tacosConference.github.io/wiki/Basic-Website-Documentation) of this repository.
 
 ## How to clone the website
 ### 1. Check whether you have installed [Git](https://git-scm.com/).
