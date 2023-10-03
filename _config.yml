@@ -11,10 +11,6 @@ facebook:
 
 logo: "../css/2023_style/img/wugos.png"
 
-social: 
-  name: Twitter
-  link: "https://twitter.com/tacosconference"
-
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 #include: ['_2016_pages', '_2017_pages']
@@ -32,6 +28,6 @@ social:
   - title: twitter
     url: https://twitter.com/tacosconference
 
-# Build settings
-markdown: kramdown
 permalink: pretty
+# Source: "G:/My Drive/UdS/TaCoS/tacosConference.github.io"
+# Server address: http://127.0.0.1:4000/
