@@ -1,5 +1,5 @@
 <!-- Portfolio Grid Section -->
-    <section id="speakers" class="bg-light-gray">
+    <section id="team" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -15,11 +15,13 @@
                             <div class="speakers-hover-content">
                             </div>
                         </div>
-                        <img src="../css/2024_style/img/team/{{ team.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2024_style/img/team/{{ team.thumbnail }}" class="img-responsive img-centered" alt="{{ team.name }}">
                     </a>
                     <div class="speakers-caption">
-                        <h4>{{ team.title }}</h4>
-                        <p class="text-muted">{{ team.subtitle }}</p>
+                        <center>
+                        <h4>{{ team.name }}</h4>
+                        <p class="text-muted">{{ team.description }}</p>
+                        </center>
                     </div>
                 </div>
             {% endfor %}
