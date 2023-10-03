@@ -1,5 +1,5 @@
-- title: "title"
-  name: name
+- title: "Chair"
+  name: Katja
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: topic
@@ -7,7 +7,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Misha
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -15,7 +15,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Bri
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -23,7 +23,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Maria
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -31,7 +31,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Andreas
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -39,7 +39,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Katharina
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -47,7 +47,7 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: William
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -55,12 +55,17 @@
   email: TBD
 
 - title: "TBD"
-  name: TBD
+  name: Marc
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
   description: TBD
   email: TBD
 
-
-
+- title: "TBD"
+  name: Ben
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: TBD
+  description: TBD
+  email: TBD
