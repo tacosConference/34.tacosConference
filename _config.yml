@@ -9,13 +9,13 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2023_style/img/wugos.png"
+logo: "../css/2024_style/img/wugos.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 #include: ['_2016_pages', '_2017_pages']
 
-include: ['_2023_pages']
+include: ['_2024_pages']
 
 plugins:
   - jekyll-sitemap
@@ -31,3 +31,4 @@ incremental: true
 permalink: pretty
 # Source: "G:/My Drive/UdS/TaCoS/tacosConference.github.io"
 Server address: http://127.0.0.1:4000/
+regenerate: true
