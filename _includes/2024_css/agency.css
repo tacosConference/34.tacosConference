@@ -99,6 +99,12 @@ h4 {
 	font-size: 120%;
 }
 
+.img-headshot {
+    margin:0 auto;
+    max-height: 345px;
+    max-width: 345px;
+}
+
 .img-centered {
     margin: 0 auto;
 }

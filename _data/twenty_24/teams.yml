@@ -1,4 +1,5 @@
 - title: "Chair"
+  ref: Katja
   name: Katja Konermann
   img: Katja-Konermann.jpg
   thumbnail: Katja-Konermann.jpg
@@ -9,6 +10,7 @@
 
 - title: "TBD"
   name: Misha
+  ref: Misha
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -18,6 +20,7 @@
 
 - title: "Administrative Assistant"
   name: Bri Lehman
+  ref: Bri
   img: Bri-Lehman.jpg
   thumbnail: Bri-Lehman.jpg
   topic: TBD
@@ -27,6 +30,7 @@
 
 - title: "TBD"
   name: Maria
+  ref: Maria
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -36,6 +40,7 @@
 
 - title: "TBD"
   name: Andreas Rouvalis
+  ref: Andreas
   img: Andreas-Rouvalis.png
   thumbnail: Andreas-Rouvalis.png
   topic: TBD
@@ -45,6 +50,7 @@
 
 - title: "TBD"
   name: Katharina
+  ref: Katharina
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -53,7 +59,8 @@
   website: TBD
 
 - title: "TBD"
-  name: William
+  name: William LaCroix
+  ref: William
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD
@@ -63,6 +70,7 @@
 
 - title: "Helper"
   name: Marc Altmeyer
+  ref: Marc
   img: Marc-Altmeyer.jpg
   thumbnail: Marc-Altmeyer.jpg
   topic: TBD
@@ -71,6 +79,7 @@
 
 - title: "TBD"
   name: Ben
+  ref: Ben
   img: TBD.jpg
   thumbnail: TBD.jpg
   topic: TBD

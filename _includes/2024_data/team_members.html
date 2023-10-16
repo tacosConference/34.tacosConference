@@ -10,17 +10,17 @@
             <div class="row">
             {% for team in site.data.twenty_24.teams %}
                 <div class="col-md-4 col-sm-4 speakers-item">
-                    <a href="#{{ team.name }}" class="speakers-link" data-toggle="modal">
+                    <a href="#{{ team.ref }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
                             <div class="speakers-hover-content">
                             </div>
                         </div>
-                        <img src="../css/2024_style/img/team/{{ team.thumbnail }}" class="img-responsive img-centered" alt="{{ team.name }}">
+                        <img src="../css/2024_style/img/team/{{ team.thumbnail }}" class="img-responsive img-headshot" alt="{{ team.ref }}">
                     </a>
                     <div class="speakers-caption">
                         <center>
                         <h4>{{ team.name }}</h4>
-                        <p class="text-muted">{{ team.description }}</p>
+                        <p class="text-muted">{{ team.title }}</p>
                         </center>
                     </div>
                 </div>
