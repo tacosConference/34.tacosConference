@@ -1,10 +1,11 @@
 - title: "Chair"
-  name: Katja
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: topic
-  description: description
-  email: TBD
+  name: Katja Konermann
+  img: Katja-Konermann.jpg
+  thumbnail: Katja-Konermann.jpg
+  topic: topic (placeholder)
+  description: description (placeholder)
+  email: email (placeholder)
+  website: website (placeholder)
 
 - title: "TBD"
   name: Misha
@@ -13,14 +14,16 @@
   topic: TBD
   description: TBD
   email: TBD
+  website: TBD
 
-- title: "TBD"
-  name: Bri
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: "Administrative Assistant"
+  name: Bri Lehman
+  img: Bri-Lehman.jpg
+  thumbnail: Bri-Lehman.jpg
   topic: TBD
-  description: TBD
+  description: "2nd year Masters LST student, focusing on psycholinguistics"
   email: TBD
+  website: TBD
 
 - title: "TBD"
   name: Maria
@@ -29,14 +32,16 @@
   topic: TBD
   description: TBD
   email: TBD
+  website: TBD
 
 - title: "TBD"
-  name: Andreas
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  name: Andreas Rouvalis
+  img: Andreas-Rouvalis.png
+  thumbnail: Andreas-Rouvalis.png
   topic: TBD
   description: TBD
-  email: TBD
+  email: anro00004@stud.uni-saarland.de
+  website: https://www.linkedin.com/in/andreas-rouvalis/
 
 - title: "TBD"
   name: Katharina
@@ -45,6 +50,7 @@
   topic: TBD
   description: TBD
   email: TBD
+  website: TBD
 
 - title: "TBD"
   name: William
@@ -53,14 +59,15 @@
   topic: TBD
   description: TBD
   email: TBD
+  website: TBD
 
-- title: "TBD"
-  name: Marc
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: "Helper"
+  name: Marc Altmeyer
+  img: Marc-Altmeyer.jpg
+  thumbnail: Marc-Altmeyer.jpg
   topic: TBD
-  description: TBD
-  email: TBD
+  description: "I'm a former Coli-student from Saarbrücken, who is helping the TaCoS-Team with organizing to provide you with a great conference experience."
+  email: marcaltmeyer.ma@gmail.com
 
 - title: "TBD"
   name: Ben
@@ -69,3 +76,4 @@
   topic: TBD
   description: TBD
   email: TBD
+  website: TBD
