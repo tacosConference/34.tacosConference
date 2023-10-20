@@ -101,8 +101,8 @@ h4 {
 
 .img-headshot {
     margin:0 auto;
-    max-height: 345px;
-    max-width: 345px;
+    height: 345px;
+    max-width: auto;
 }
 
 .img-centered {

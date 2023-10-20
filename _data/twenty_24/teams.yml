@@ -2,20 +2,18 @@
   ref: Katja
   name: Katja Konermann
   img: Katja-Konermann.jpg
-  thumbnail: Katja-Konermann.jpg
   topic: topic (placeholder)
   description: description (placeholder)
   email: email (placeholder)
   website: website (placeholder)
 
-- title: "TBD"
-  name: Misha
+- title: "Vice Chair"
+  name: Misha Sonkin
   ref: Misha
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Mikhail-Sonkin.jpg
   topic: TBD
-  description: TBD
-  email: TBD
+  description: "2nd year student at LST, HiWi at project A8"
+  email: michael.sonkin@gmail.com
   website: TBD
 
 - title: "Administrative Assistant"
@@ -35,7 +33,7 @@
   description: TBD
   email: anro00004@stud.uni-saarland.de
   website: https://www.linkedin.com/in/andreas-rouvalis/
-  
+
 - title: "TBD"
   name: Maria
   ref: Maria
@@ -54,14 +52,14 @@
   email: katharinatrinley@icloud.com
   website: TBD
 
-- title: "TBD"
+- title: "Web Designer"
   name: William LaCroix
   ref: William
-  img: TBD.jpg
+  img: William-LaCroix.jpg
   topic: TBD
-  description: TBD
-  email: TBD
-  website: TBD
+  description: "Second year master's student in Language Science and Technology, focusing on natural language processing and machine learning. Working as a data science research assistant with the German Research Center for Artificial Intelligence."
+  email: williamplacroix@gmail.com
+  website: https://williamplacroix.github.io/Portfolio/
 
 - title: "Helper"
   name: Marc Altmeyer
