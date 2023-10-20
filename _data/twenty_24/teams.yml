@@ -22,19 +22,8 @@
   name: Bri Lehman
   ref: Bri
   img: Bri-Lehman.jpg
-  thumbnail: Bri-Lehman.jpg
   topic: TBD
   description: "2nd year Masters LST student, focusing on psycholinguistics"
-  email: TBD
-  website: TBD
-
-- title: "TBD"
-  name: Maria
-  ref: Maria
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: TBD
-  description: TBD
   email: TBD
   website: TBD
 
@@ -42,17 +31,24 @@
   name: Andreas Rouvalis
   ref: Andreas
   img: Andreas-Rouvalis.png
-  thumbnail: Andreas-Rouvalis.png
   topic: TBD
   description: TBD
   email: anro00004@stud.uni-saarland.de
   website: https://www.linkedin.com/in/andreas-rouvalis/
+  
+- title: "TBD"
+  name: Maria
+  ref: Maria
+  img: TBD.jpg
+  topic: TBD
+  description: TBD
+  email: TBD
+  website: TBD
 
 - title: "Sponsorship and Social Media Coordinator"
   name: Katharina Trinley
   ref: Katharina
   img: Katharina-Trinley.png
-  thumbnail: Katharina-Trinley.png
   topic: TBD
   description: "1st year Masters LST student"
   email: katharinatrinley@icloud.com
@@ -62,7 +58,6 @@
   name: William LaCroix
   ref: William
   img: TBD.jpg
-  thumbnail: TBD.jpg
   topic: TBD
   description: TBD
   email: TBD
@@ -72,7 +67,6 @@
   name: Marc Altmeyer
   ref: Marc
   img: Marc-Altmeyer.jpg
-  thumbnail: Marc-Altmeyer.jpg
   topic: TBD
   description: "I'm a former Coli-student from Saarbrücken, who is helping the TaCoS-Team with organizing to provide you with a great conference experience."
   email: marcaltmeyer.ma@gmail.com
@@ -81,7 +75,6 @@
   name: Ben
   ref: Ben
   img: TBD.jpg
-  thumbnail: TBD.jpg
   topic: TBD
   description: TBD
   email: TBD
