@@ -274,6 +274,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.draw-ascii {
+    color: black;
+    font-family: 'monospace';
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
