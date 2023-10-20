@@ -11,26 +11,19 @@
   name: Misha Sonkin
   ref: Misha
   img: Mikhail-Sonkin.jpg
-  topic: TBD
   description: "2nd year student at LST, HiWi at project A8"
   email: michael.sonkin@gmail.com
-  website: TBD
 
 - title: "Administrative Assistant"
   name: Bri Lehman
   ref: Bri
   img: Bri-Lehman.jpg
-  topic: TBD
   description: "2nd year Masters LST student, focusing on psycholinguistics"
-  email: TBD
-  website: TBD
 
-- title: "TBD"
+- title: 
   name: Andreas Rouvalis
   ref: Andreas
   img: Andreas-Rouvalis.png
-  topic: TBD
-  description: TBD
   email: anro00004@stud.uni-saarland.de
   website: https://www.linkedin.com/in/andreas-rouvalis/
 
@@ -47,17 +40,16 @@
   name: Katharina Trinley
   ref: Katharina
   img: Katharina-Trinley.png
-  topic: TBD
-  description: "1st year Masters LST student"
+  description: "1st year Master's student in Language Science and Technology"
   email: katharinatrinley@icloud.com
-  website: TBD
+
 
 - title: "Beach"
   name: William LaCroix
   ref: William
   img: William-LaCroix.jpg
   topic: TBD
-  description: "Second year master's student in Language Science and Technology, focusing on natural language processing and machine learning. Working as a data science research assistant with the German Research Center for Artificial Intelligence."
+  description: "Second year Master's student in Language Science and Technology, focusing on natural language processing and machine learning. Working as a data science research assistant with the German Research Center for Artificial Intelligence."
   email: williamplacroix@gmail.com
   website: https://williamplacroix.github.io/Portfolio/
 
@@ -65,8 +57,7 @@
   name: Marc Altmeyer
   ref: Marc
   img: Marc-Altmeyer.jpg
-  topic: TBD
-  description: "I'm a former Coli-student from Saarbrücken, who is helping the TaCoS-Team with organizing to provide you with a great conference experience."
+  description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."
   email: marcaltmeyer.ma@gmail.com
 
 - title: "TBD"
