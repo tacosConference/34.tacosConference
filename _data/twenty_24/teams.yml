@@ -1,6 +1,6 @@
 - title: "Chair"
   ref: Katja
-  name: Katja Konermann
+  name: "Katja Konermann"
   img: Katja-Konermann.jpg
   topic: topic (placeholder)
   description: description (placeholder)
@@ -8,20 +8,20 @@
   website: website (placeholder)
 
 - title: "Vice Chair"
-  name: Misha Sonkin
+  name: "Misha Sonkin"
   ref: Misha
   img: Mikhail-Sonkin.jpg
   description: "2nd year student at LST, HiWi at project A8"
   email: michael.sonkin@gmail.com
 
 - title: "Administrative Assistant"
-  name: Bri Lehman
+  name: "Bri Lehman"
   ref: Bri
   img: Bri-Lehman.jpg
   description: "2nd year Masters LST student, focusing on psycholinguistics"
 
-- title: 
-  name: Andreas Rouvalis
+- title: ""
+  name: "Andreas Rouvalis"
   ref: Andreas
   img: Andreas-Rouvalis.png
   email: anro00004@stud.uni-saarland.de
@@ -37,7 +37,7 @@
   website: TBD
 
 - title: "Sponsorship and Social Media Coordinator"
-  name: Katharina Trinley
+  name: "Katharina Trinley"
   ref: Katharina
   img: Katharina-Trinley.png
   description: "1st year Master's student in Language Science and Technology"
@@ -45,7 +45,7 @@
 
 
 - title: "Beach"
-  name: William LaCroix
+  name: "William LaCroix"
   ref: William
   img: William-LaCroix.jpg
   topic: TBD
@@ -54,7 +54,7 @@
   website: https://williamplacroix.github.io/Portfolio/
 
 - title: "Helper"
-  name: Marc Altmeyer
+  name: "Marc Altmeyer"
   ref: Marc
   img: Marc-Altmeyer.jpg
   description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."

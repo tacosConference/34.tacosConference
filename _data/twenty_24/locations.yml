@@ -1,10 +1,10 @@
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
+- title: "title"
+  name: name
+  subtitle: subtitle
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: TBD
-  description: TBD
+  alt: alt
+  description: description
 
 - title: "TBD"
   name: TBD

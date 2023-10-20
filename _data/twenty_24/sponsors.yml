@@ -1,26 +1,26 @@
-- company: "title"
+- company: "company"
   img: TBD.jpg
   thumbnail: TBD.jpg
-  subtitle: topic
+  subtitle: subtitle
   description: description
-  website: email
+  website: website
   contact: contact
 
-- company: "title"
+- company: "TBD"
   img: TBD.jpg
   thumbnail: TBD.jpg
-  subtitle: topic
-  description: description
-  website: email
-  contact: contact
+  subtitle: TBD
+  description: TBD
+  website: TBD
+  contact: TBD
 
-- company: "title"
+- company: "TBD"
   img: TBD.jpg
   thumbnail: TBD.jpg
-  subtitle: topic
-  description: description
-  website: email
-  contact: contact
+  subtitle: TBD
+  description: TBD
+  website: TBD
+  contact: TBD
 
   
 
