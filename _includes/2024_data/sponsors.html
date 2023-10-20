@@ -1,19 +1,41 @@
 <!-- Clients Aside -->
 <section id="sponsors">   
-	<div class="row">
-        <div class="col-lg-12 text-center">
-			<h2 class="section-heading">Our generous sponsors</h2>
-            <center>
-            <p>Without the support from our sponsors the TaCoS would not be possible!<br>Check back later to see who will be sponsoring the next TaCoS!</p>
-            <a href="/sponsors" class="page-scroll btn btn-xl">Sponsor us!</a>
-        </center>
-        <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Our generous sponsors</h2>
+                <center>
+                <p>Without the support from our sponsors the TaCoS would not be possible!<br>Check back later to see who will be sponsoring the next TaCoS!</p>
+                <a href="/sponsors" class="page-scroll btn btn-xl">Sponsor us!</a>
+            </center>
+            <br>
+            </div>
+        </div>	
+        {% for sponsor in site.data.twenty_24.sponsors %}
+            <div class="col-md-4 col-sm-4 speakers-item">
+                <a href="#{{ sponsor.company }}" class="speakers-link" data-toggle="modal">
+                    <div class="speakers-hover">
+                        <div class="speakers-hover-content">
+                        </div>
+                    </div>
+                    <img src="../css/2024_style/img/logos/{{ sponsor.thumbnail }}" class="img-responsive img-headshot" alt="{{ sponsor.company }}">
+                </a>
+                <div class="speakers-caption">
+                    <center>
+                    <h4>{{ sponsor.company }}</h4>
+                    <p class="text-muted">{{ sponsor.subtitle }}</p>
+                    </center>
+                </div>
+            </div>
+        {% endfor %}
         </div>
-	</div>	
-    <aside class="clients" >
+    </div>
+</section>
+
+    <!--<aside class="clients" >
         <div class="container">
 
-			<!--<div class="row">
+			<div class="row">
                 <div class="col-md-12 col-sm-12">
                     <a href="https://dig-hum.de/ueber-dhd" class="portfolio-link" data-toggle="modal">
                         <img src="../css/2024_style/img/logos/DHD.png" class="img-responsive img-centered" alt="Digital Humanities im deutschsprachigen Raum">
@@ -87,8 +109,8 @@
                         <img src="../css/2024_style/img/logos/GFFU_Logo_cmyk.png" class="img-responsive img-centered" alt="Gesellschaft von Freunden und Förderern der
 Heinrich-Heine-Universität Düsseldorf e.V. GFFU">
                   </a>
-				  </div>-->
+				  </div>
 				  </div>
             </div>
         </div>
-    </aside>
+    </aside>-->

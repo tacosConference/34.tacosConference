@@ -1,18 +1,26 @@
-- title: "title"
-  name: name
+- company: "title"
   img: TBD.jpg
   thumbnail: TBD.jpg
-  topic: topic
+  subtitle: topic
   description: description
-  email: email
+  website: email
+  contact: contact
 
-- title: "TBD"
-  name: TBD
+- company: "title"
   img: TBD.jpg
   thumbnail: TBD.jpg
-  topic: TBD
-  description: TBD
-  email: TBD
+  subtitle: topic
+  description: description
+  website: email
+  contact: contact
+
+- company: "title"
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  subtitle: topic
+  description: description
+  website: email
+  contact: contact
 
   
 
