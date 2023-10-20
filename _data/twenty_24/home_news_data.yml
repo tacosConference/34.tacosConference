@@ -1,0 +1,17 @@
+#- inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  name: Agenda
+#  info: Check out the (preliminary) agenda
+#  link: /agenda
+
+- inverted: 
+  img: uds-wug.png
+  title: So it begins...
+  text: We've begun organizing the 33rd TaCoS conference in 2024! Check back here for updates.
+  link: /news
+
+#- inverted: timeline-inverted
+ # img: booklet-icon.png
+ # name: Sponsor Booklet
+ # info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
+ # link: ""
