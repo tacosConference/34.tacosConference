@@ -1,8 +1,8 @@
 - title: "title"
   name: name
   subtitle: subtitle
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: 
+  thumbnail: 
   alt: alt
   topic: topic
   description: description
@@ -10,8 +10,8 @@
 - title: "TBD"
   name: TBD
   subtitle: TBD
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: 
+  thumbnail: 
   alt: TBD
   topic: TBD
   description: TBD
@@ -19,8 +19,8 @@
 - title: "TBD"
   name: TBD
   subtitle: TBD
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: 
+  thumbnail: 
   alt: TBD
   topic: TBD
   description: TBD

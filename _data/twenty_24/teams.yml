@@ -30,7 +30,7 @@
 - title: "TBD"
   name: Maria
   ref: Maria
-  img: TBD.jpg
+  img: 
   topic: TBD
   description: TBD
   email: TBD
@@ -63,7 +63,7 @@
 - title: "TBD"
   name: Ben
   ref: Ben
-  img: TBD.jpg
+  img: 
   topic: TBD
   description: TBD
   email: TBD
@@ -72,7 +72,7 @@
 # - title: ""
 #   name: Urs
 #   ref: Urs
-#   img: TBD.jpg
+#   img: 
 #   topic: TBD
 #   description: TBD
 #   email: TBD
