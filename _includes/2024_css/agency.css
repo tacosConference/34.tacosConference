@@ -197,6 +197,13 @@ fieldset[disabled] .btn-primary.active {
 	font-size: 1.3em;
 }
 
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 /*
 .container {
       display:flex;
@@ -434,6 +441,23 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
+}
+aside.clients h1,
+section h1.title-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+    background-color: darkblue;
+}
+
+.strokeme
+{
+    color: white;
+    text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;  
 }
 
 aside.clients h2,
