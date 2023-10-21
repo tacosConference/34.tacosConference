@@ -27,14 +27,14 @@
   email: anro00004@stud.uni-saarland.de
   website: https://www.linkedin.com/in/andreas-rouvalis/
 
-- title: "TBD"
+- title: ""
   name: Maria
   ref: Maria
-  img: 
-  topic: TBD
-  description: TBD
-  email: TBD
-  website: TBD
+  img: TBD.jpg
+  topic: 
+  description: 
+  email: 
+  website: 
 
 - title: "Sponsorship and Social Media Coordinator"
   name: "Katharina Trinley"
@@ -48,7 +48,7 @@
   name: "William LaCroix"
   ref: William
   img: William-LaCroix.jpg
-  topic: TBD
+  topic: 
   description: "Second year Master's student in Language Science and Technology, focusing on natural language processing and machine learning. Working as a data science research assistant with the German Research Center for Artificial Intelligence."
   email: williamplacroix@gmail.com
   website: https://williamplacroix.github.io/Portfolio/
@@ -60,14 +60,14 @@
   description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."
   email: marcaltmeyer.ma@gmail.com
 
-- title: "TBD"
+- title: ""
   name: Ben
   ref: Ben
-  img: 
-  topic: TBD
-  description: TBD
-  email: TBD
-  website: TBD
+  img: TBD.jpg
+  topic: 
+  description: 
+  email: 
+  website: 
 
 # - title: ""
 #   name: Urs
