@@ -27,6 +27,9 @@ social:
   #  url: https://www.facebook.com
   - title: twitter
     url: https://twitter.com/tacosconference
+  - title: instagram
+    url: https://www.instagram.com/tacosconference/
+
 incremental: true
 permalink: pretty
 # Source: "G:/My Drive/UdS/TaCoS/tacosConference.github.io"
