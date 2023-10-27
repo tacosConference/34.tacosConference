@@ -60,14 +60,14 @@
   description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."
   email: marcaltmeyer.ma@gmail.com
 
-- title: ""
-  name: Ben
-  ref: Ben
-  img: TBD.jpg
-  topic: 
-  description: 
-  email: 
-  website: 
+# - title: ""
+#   name: Ben
+#   ref: Ben
+#   img: TBD.jpg
+#   topic: 
+#   description: 
+#   email: 
+#   website: 
 
 # - title: ""
 #   name: Urs
