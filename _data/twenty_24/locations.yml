@@ -1,0 +1,31 @@
+- title: "title"
+  name: name
+  subtitle: subtitle
+  img: 
+  thumbnail: 
+  alt: alt
+  description: description
+
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: 
+  thumbnail: 
+  alt: TBD
+  description: TBD
+
+- title: "TBD"
+  name: TBD
+  subtitle: TBD
+  img: 
+  thumbnail: 
+  alt: TBD
+  description: TBD
+
+# - title: "Other places"
+#   name: Name
+#   subtitle: In planning
+#   img: 
+#   thumbnail: 
+#   alt: Other places that you will be going
+#   description: Fun places to take you all :)

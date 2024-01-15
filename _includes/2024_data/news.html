@@ -1,0 +1,52 @@
+<!-- About Section -->
+<section id="news">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Recent News</h2>
+                    <!-- <h3 class="section-subheading text-muted"></h3> -->
+                </div>
+            </div>
+            <div class="row">   
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% for news_data in site.data.twenty_24.home_news_data %}
+                            <li class="{{ news_data.inverted }}">
+                                <div class="timeline-image">
+                                    <img class="img-responsive" src="../css/2024_style/img/{{ news_data.img }}" alt="" >
+                                </div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>{{ news_data.title }}</h4>
+                                    </div>
+                                    <div class="timeline-heading">
+                                        <p class="text-muted">{{ news_data.text }}</p>
+                                    </div>
+                                    <!--<a href="{{ news_data.link }}" class="page-scroll btn btn-sm">Previous Updates</a>-->
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- <div>
+                    <center>
+                    <p>Unfortunately, attendance registration is not yet open. Please check back soon!</p>
+                    <a href="/register" class="page-scroll btn btn-xl"><s>Register to Participate!</s></a>
+                    </center>             
+                </div>
+                <div>
+                    <center>
+                    <p>Want to present at this year's TaCoS?</p>
+                    <p>Click the link below to read our call for papers!</p>
+                    <a href="/cfp" class="page-scroll btn btn-xl"><s>Call for Papers</s></a>
+                    </center>
+                </div>
+                <div>
+                    <center>
+                    <p>Click the link below for this year's agenda</p>
+                    <a href="/agenda" class="page-scroll btn btn-xl"><s>Agenda</s></a>
+                    </center>
+                </div> -->
+            </div>
+        </div>
+    </section>

@@ -1,25 +1,21 @@
-title: 32. TaCoS
+title: 33. TaCoS
 description: > # this means to ignore newlines until "baseurl:"
-  32. TaCoS Conference in Düsseldorf
+  33. TaCoS Conference in Saarbrücken
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tacosconference.github.io/" # the base hostname & protocol for your site
+url: "tacosconference.github.io/" # th  e base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 facebook:
   app_id: 
 
-logo: "../css/2023_style/img/wugos.png"
-
-social: 
-  name: Twitter
-  link: "https://twitter.com/tacosconference"
+logo: "../css/2024_style/img/tacos_2024_logo_circle.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 #include: ['_2016_pages', '_2017_pages']
 
-include: ['_2023_pages']
+include: ['_2024_pages']
 
 plugins:
   - jekyll-sitemap
@@ -31,7 +27,11 @@ social:
   #  url: https://www.facebook.com
   - title: twitter
     url: https://twitter.com/tacosconference
+  - title: instagram
+    url: https://www.instagram.com/tacosconference/
 
-# Build settings
-markdown: kramdown
+incremental: true
 permalink: pretty
+# Source: "G:/My Drive/UdS/TaCoS/tacosConference.github.io"
+Server address: http://127.0.0.1:4000/
+regenerate: true

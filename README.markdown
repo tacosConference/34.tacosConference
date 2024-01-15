@@ -1,5 +1,5 @@
-# TaCos 2022 Website 
-This is the website for the 2023 `Tagung der Computerlinguistik Studierenden` in Düsseldorf. The [Jekyll](https://jekyllrb.com/) event theme is cloned from [here](https://github.com/melvinchng/event-jekyll-theme). 
+# TaCos 2024 Website 
+This is the website for the 2024 `Tagung der Computerlinguistik Studierenden` in Saarbrücken. The [Jekyll](https://jekyllrb.com/) event theme is cloned from [here](https://github.com/melvinchng/event-jekyll-theme). 
 
 > If you want to use this website as a **template** for your conference/event, follow [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 

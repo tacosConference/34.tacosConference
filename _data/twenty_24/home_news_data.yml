@@ -1,0 +1,33 @@
+- inverted:
+  img: tacos_2024_logo.png
+  title: So it begins...
+  text: We've begun organizing the 33rd TaCoS conference! Check back here for updates.
+  linktext: Previous Updates
+  link: /news
+
+#  - inverted: timeline-inverted
+#  img: tacos_2024_logo_circle.png
+#  title: Registration
+#  text: Unfortunately, attendance registration is not yet open. Please check back soon!
+#  linktext: Register here!
+#  link: /register
+
+#  - inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  title: Agenda
+#  text: Check out the (preliminary) agenda
+#  linktext: Agenda
+#  link: /agenda
+
+#  - inverted: timeline-inverted
+#  img: icon-venue.jpeg
+#  title: Venue
+#  text: The conference will be held at the University of Duisburg-Essen, Campus Essen.
+#  linktext: Venue
+#  link: /venue
+
+#  - inverted: timeline-inverted
+#  img: booklet-icon.png
+#  name: Sponsor Booklet
+#  info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
+#  link: ""

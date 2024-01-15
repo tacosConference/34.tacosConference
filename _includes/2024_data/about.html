@@ -1,0 +1,37 @@
+<!-- About Section -->
+<section id="about" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">More Information</h2>
+                    <!-- <h3 class="section-subheading text-muted"></h3> -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% for about_data in site.data.twenty_24.home_about_data %}
+                            <li class="{{ about_data.inverted }}">
+                                <div class="timeline-image">
+                                    <img class="img-circle img-responsive" src="../css/2024_style/img/{{ about_data.img }}" alt="">
+                                </div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>{{ about_data.name }}</h4>
+                                    </div>
+                                    <div class="timeline-heading">
+                                        <p class="text-muted">{{ about_data.info }}</p>
+                                    </div>
+                                    <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
+                                </div>
+                            </li>
+                        {% endfor %}
+						<div>
+				<center><p>Learn about previous TaCoS conferences.</p>
+				<a href="https://linguistik.computer/" class="page-scroll btn btn-xl">See the chronicles</a></center>
+				</div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>

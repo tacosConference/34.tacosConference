@@ -1,0 +1,90 @@
+<script>
+window.onscroll = function() {
+  growShrinkLogo()
+};
+
+function growShrinkLogo() {
+  var Logo = document.getElementById("Logo")
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+	document.getElementById("Logo").src="../css/2024_style/img/tacos_2024_logo_circle.png";
+	Logo.style.width = "50px";
+  } else {
+	document.getElementById("Logo").src="../css/2024_style/img/tacos_2024_logo_circle.png";
+	Logo.style.width = "150px";
+  }
+}
+</script>
+<!-- Navigation -->
+
+    <nav class="navbar navbar-default navbar-fixed-top" >
+	    <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+			<a class="navbar-brand page-scroll" href="../#Navigation"><img src="../css/2024_style/img/tacos_2024_logo_circle.png" style="margin-top:-15px" width="150px" alt="Back to top!" id='Logo'></a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="/"></a> 
+                    </li>
+                    <!--<li>
+                        <a href="../agenda">Agenda</a>
+                    </li>-->
+					<!--<li>
+                        <a href="../scholarshipInfo">Scholarships</a>
+                    </li>-->
+                    
+					
+					<!--<li>
+                        <a class="page-scroll" href="#scholarships">Scholarships</a>
+                    </li>-->
+					
+					<li>
+                        <a class="page-scroll" href="../#intro">Intro</a>
+                    </li>            
+                    <li>
+                        <a class="page-scroll" href="../#news">News</a>
+                    </li>           
+                    <li>
+                        <a class="page-scroll" href="../#speakers">Speakers</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../#sponsors">Sponsors</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../#locations">Locations</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../#team">Team</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../#about">More info</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="../#contact">Contact</a>
+                    </li>
+		    <li>
+			    <!-- <a href="https://github.com/tacosConference/tacosConference.github.io"><img src = "../css/2024_style/img/github-mark-white.png" height = "30"></a>-->
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->
+

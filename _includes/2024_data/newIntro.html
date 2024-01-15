@@ -1,0 +1,63 @@
+<!-- Portfolio Grid Section -->
+    <section id="intro" class="bg-light-gray">
+        <div class="container">
+            <!--<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>-->
+            <div class="row">
+				<div class="col-md-6">
+				<center>
+					<h2 class="section-heading">We look forward to seeing you!</h2>
+					<center>
+                        <br><br>
+						<a href="https://www.uni-saarland.de/en/home.html" class="btn-sm">Universität des Saarlandes</a>
+                        <br><br><br><br>
+					</center>
+				</center>				
+				</div>
+				<div class="col-md-6">
+					<center>
+						<h2 class="section-heading">What is the TaCoS?</h2>
+						<p class="block"> The Tagung der Computerlinguistik-Studierenden (TaCoS) was first organized in 1992 and takes place once every year. It offers students of computational linguistics and adjacent fields a chance to exchange views during talks and workshops. The conference is hosted by teams of student volunteers at their university. Participants traditionally receive accommodation and breakfast in exchange for a small fee. At the center of the conference stand talks, workshops, and poster sessions; each given by students for students. Established academics from the host university are invited as keynote speakers as well. In addition, there is a social program for everyone to connect and network.
+						<br>
+						This year marks the 33. TaCoS and our team at Saarland University in Saarbrücken is proud to host the event this summer.
+						</p>
+					<p><a href="https://linguistik.computer/">Previous TaCoS conferences</a></p> 
+					<ul class="list-inline social-buttons">
+						{% for network in site.social %}
+							<li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+						{% endfor %}
+						<br>
+					</ul>
+					</center>					
+				</div>
+            </div>
+        </div>
+    </section>
+
+<!-- <div class="col-md-6" style = "border: 10px solid #63A644; padding: 20px">
+					<center>
+					<h2 class="section-heading">Important Dates</h2>
+					<h1 class="section-heading">Registration</h3>
+					<div class="biggertext">
+						<ul class="mylist">
+							<li><s>Opens February 27th</s></li>
+							<li><del>Closes June 1st</del></li>
+						</ul>
+						<br>							
+						<a href="https://forms.gle/D8B7VfzzjAddsf4QA" class="btn-sm">Waiting list</a>
+						<br>
+					</div>
+					<h1 class="section-heading">Call for Papers</h3>
+						<div class="biggertext">
+							<center>
+							<ul class="mylist">
+								<li><s>Opens March 20th</s></li>
+								<li><s>Closed May 20th</s></li>
+							</ul>
+							</center>
+							Notice of acceptance has been sent out.</b>		
+						</div>
+					</center>	 -->

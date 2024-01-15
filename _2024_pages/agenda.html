@@ -1,0 +1,85 @@
+---
+layout: 2024_default
+permalink: /agenda
+title: Agenda
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <h1 style="background-color: #{{ site.data.template.color.secondary-dark }}">{{ page.title }}</h1>
+
+        <p>This is the official agenda of the TaCoS. <b>Arrival and check-in is on the ###DATE at the Youth Hostel Saarbrücken from ###TIME onwards.</b> Please tell the hostel staff that you are part of the conference and keep your ID ready. <b>The TaCoS team will be there in person from ###TIME - ###TIME to take care of the registration.</b> If you miss this time window, please talk to us at the university the following day.</p>
+
+        <h2>###DATE</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_24.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>###DATE</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
+            </thead>
+
+            {% for agenda in site.data.twenty_24.agendas_2 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>###DATE</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_24.agendas_3 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+        <h2>###DATE</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+
+            {% for agenda in site.data.twenty_24.agendas_4 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+    </div>
