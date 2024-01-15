@@ -29,7 +29,7 @@ body {
 }
 
 bg-attention {
-    background-color: #10427A;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 @media screen and (max-width : 1200px){
@@ -326,7 +326,11 @@ fieldset[disabled] .btn-xl.active {
     font-family: #{{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #f7efe2;
+}
+
+.navbar-default.navbar-shrink .nav li a {
+    color: #222;
 }
 
 .navbar-default .nav li a:hover {
@@ -336,7 +340,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #000;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -344,6 +348,12 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-default.navbar-shrink {
+    padding: 10px 0;
+    background-color: #f7efe2;
+    color: #fff;
 }
 
 @media(min-width:768px) {
@@ -367,11 +377,9 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
     }
+    
 
-    .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #222;
-    }
+
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
