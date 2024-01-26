@@ -105,6 +105,12 @@ h4 {
     max-width: auto;
 }
 
+.img-logo {
+    margin:0 auto;
+    height: 100px;
+    max-width: auto;
+}
+
 .img-centered {
     margin: 0 auto;
 }
