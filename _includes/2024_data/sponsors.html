@@ -5,31 +5,40 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Our generous sponsors</h2>
                 <center>
-                <p>Without the support from our sponsors the TaCoS would not be possible!<br>If you're interested in supporting this event and presenting your company to the participants, click below for more info!</p>
-                <a href="/sponsors" class="page-scroll btn btn-xl">Sponsor Info</a>
+                <p>Without the support from our sponsors the TaCoS would not be possible!</p>
             </center>
             <br>
             </div>
-        </div>	
-        <!-- {% for sponsor in site.data.twenty_24.sponsors %}
+        </div>
+        {% for sponsor in site.data.twenty_24.sponsors %}
             <div class="col-md-4 col-sm-4 speakers-item">
-                <a href="#{{ sponsor.company }}" class="speakers-link" data-toggle="modal">
+                <a href="{{ sponsor.website }}" class="speakers-link" data-toggle="modal">
                     <div class="speakers-hover">
                         <div class="speakers-hover-content">
                         </div>
                     </div>
-                    <img src="../css/2024_style/img/logos/{{ sponsor.thumbnail }}" class="img-responsive img-headshot" alt="{{ sponsor.company }}">
+                    <img src="../css/2024_style/img/logos/{{ sponsor.thumbnail }}" class="img-responsive img-logo" alt="{{ sponsor.company }}">
+                    <div class="speakers-caption">
+                        <center>
+                        <h4>{{ sponsor.company }}</h4>
+                        </center>
+                    </div>
                 </a>
-                <div class="speakers-caption">
+                <center><p class="text-muted">{{ sponsor.subtitle }}</p></center>
+                <!-- <div class="speakers-caption">
                     <center>
                     <h4>{{ sponsor.company }}</h4>
                     <p class="text-muted">{{ sponsor.subtitle }}</p>
                     </center>
-                </div>
+                </div> -->
             </div>
-        {% endfor %} -->
+        {% endfor %}
         </div>
     </div>
+    <center>
+        <p>If you're interested in supporting this event and presenting your company to the participants, click below for more info!</p>
+        <a href="/sponsors" class="page-scroll btn btn-xl">Sponsor Info</a>
+    </center>
 </section>
 
     <!--<aside class="clients" >
