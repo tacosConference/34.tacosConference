@@ -1,26 +1,24 @@
-- company: "company"
+- company: "Deutsche Gesellschaft für Sprachwissenschaft"
   img: 
-  thumbnail: 
-  subtitle: subtitle
-  description: description
-  website: website
+  thumbnail: DGFS.png
+  subtitle:
+  description:
+  website: https://dgfs.de/
+  contact:
+
+
+- company: "Information Density and Linguistic Encoding (iDeaL)"
+  img:
+  thumbnail: iDeaL.png
+  subtitle:
+  description:
+  website: https://sfb1102.uni-saarland.de/
   contact: contact
 
-- company: "TBD"
-  img: 
-  thumbnail: 
-  subtitle: TBD
-  description: TBD
-  website: TBD
-  contact: TBD
-
-- company: "TBD"
-  img: 
-  thumbnail: 
-  subtitle: TBD
-  description: TBD
-  website: TBD
-  contact: TBD
-
-  
-
+# - company: "TBD"
+#   img: 
+#   thumbnail: 
+#   subtitle: TBD
+#   description: TBD
+#   website: TBD
+#   contact: TBD
