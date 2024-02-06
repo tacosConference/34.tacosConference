@@ -6,14 +6,31 @@
   website: https://dgfs.de/
   contact:
 
-
-- company: "Information Density and Linguistic Encoding (iDeaL)"
-  img:
-  thumbnail: iDeaL.png
+- company: "Gesellschaft für Angewandte Linguistik e.V."
+  img: 
+  thumbnail: logo_gal.png
   subtitle:
   description:
-  website: https://sfb1102.uni-saarland.de/
-  contact: contact
+  website: https://gal-ev.de/
+  contact:
+
+- company: "Der Niederlandst\n*innenverband"
+  img: 
+  thumbnail: Niederlandist_innenverband.png
+  subtitle:
+  description:
+  website: https://www.niederlandistenverband.org/unser-verband/
+  contact:
+
+
+# CONFIRMED BUT HAVEN'T TRANSFERRED THE MONEY
+# - company: "Information Density and Linguistic Encoding (iDeaL)"
+#   img:
+#   thumbnail: iDeaL.png
+#   subtitle:
+#   description:
+#   website: https://sfb1102.uni-saarland.de/
+#   contact: contact
 
 # - company: "TBD"
 #   img: 
