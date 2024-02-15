@@ -14,6 +14,14 @@
   website: https://gal-ev.de/
   contact:
 
+- company: "Information Density and Linguistic Encoding (iDeaL)"
+  img:
+  thumbnail: iDeaL.png
+  subtitle:
+  description:
+  website: https://sfb1102.uni-saarland.de/
+  contact: contact
+
 - company: "Der Niederlandst\n*innenverband"
   img: 
   thumbnail: Niederlandist_innenverband.png
@@ -23,14 +31,6 @@
   contact:
 
 
-# CONFIRMED BUT HAVEN'T TRANSFERRED THE MONEY
-# - company: "Information Density and Linguistic Encoding (iDeaL)"
-#   img:
-#   thumbnail: iDeaL.png
-#   subtitle:
-#   description:
-#   website: https://sfb1102.uni-saarland.de/
-#   contact: contact
 
 # - company: "TBD"
 #   img: 
