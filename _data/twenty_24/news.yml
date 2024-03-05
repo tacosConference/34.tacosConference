@@ -1,2 +1,14 @@
-- headline: news headline, including date
-  text: text of news item
+- title: Registration is closed
+  text: The registration for 33. TaCoS has been closed. Thank you for registering and we're looking forward to seeing you!
+  linktext: Previous Updates
+  link: /news
+
+- title: Call for Participation!
+  text: Call for Participation is now open! Find out more <a href="/cfp">here</a>. It closes on March 24th 2024.
+  linktext: Previous Updates
+  link: /news
+
+- title: Registration is open!
+  text: We've opened registration for the upcoming 33. TaCoS conference! Are you interested? You can find the registration form <a href="https://anmeldung.stuts.de/tacos2024">here</a>. Registration closes on March 4th 2024.
+  linktext: Previous Updates
+  link: /news

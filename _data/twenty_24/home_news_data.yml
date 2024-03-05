@@ -1,9 +1,16 @@
 - inverted:
   img: tacos_2024_logo.png
-  title: Registration is open!
-  text: We've opened registration for the upcoming 33. TaCoS conference! Are you interested? You can find the registration form <a href="https://anmeldung.stuts.de/tacos2024">here</a>. Registration closes on March 4th 2024.
+  title: Call for Participation!
+  text: Call for Participation is now open! Find out more <a href="/cfp">here</a>. It closes on March 24th.
   linktext: Previous Updates
   link: /news
+
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: Registration is open!
+#   text: We've opened registration for the upcoming 33. TaCoS conference! Are you interested? You can find the registration form <a href="https://anmeldung.stuts.de/tacos2024">here</a>. Registration closes on March 4th 2024.
+#   linktext: Previous Updates
+#   link: /news
 
 # TODO: LEAVE IT IN FOR WHEN YOU DEVELOP SEE MORE.
 # - inverted:

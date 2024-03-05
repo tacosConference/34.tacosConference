@@ -14,10 +14,16 @@ published: true
 
       <p>Here's a list of previously posted news items.<p>
         <l>
-            {% for piece in site.data.twenty_24.news %}
-                <li><b>{{ piece.headline }}</b>
-                    <br>{{ piece.text }}<br><br>
-                </li>
+            {% for news_data in site.data.twenty_24.news %}
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>{{ news_data.title }}</h4>
+                    </div>
+                    <div class="timeline-heading">
+                        <p class="text-muted">{{ news_data.text }}</p>
+                    </div>
+                    <!--<a href="{{ news_data.link }}" class="page-scroll btn btn-sm">Previous Updates</a>-->
+                </div>
             {% endfor %}
         </l>
         <p>
