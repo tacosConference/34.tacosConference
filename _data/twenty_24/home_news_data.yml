@@ -1,9 +1,16 @@
 - inverted:
   img: tacos_2024_logo.png
-  title: Call for Participation!
-  text: Call for Participation is now open! Find out more <a href="/cfp">here</a>. It closes on March 24th.
+  title: Call for Participation Extended!
+  text: Wish you would have submitted a talk? Well, you still have time! The Call for Participation has been extended until April 24th! Find out more <a href="/cfp">here</a>.
   linktext: Previous Updates
   link: /news
+
+# - inverted:
+#   img: tacos_2024_logo.png
+#   title: Call for Participation!
+#   text: Call for Participation is now open! Find out more <a href="/cfp">here</a>. It closes on March 24th.
+#   linktext: Previous Updates
+#   link: /news
 
 # - inverted:
 #   img: tacos_2024_logo.png
