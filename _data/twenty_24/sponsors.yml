@@ -26,13 +26,17 @@
   thumbnail: DFKI_Logo_MLT_en.png
   website: https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
 
-- company: "Der Niederlandst\n*innenverband"
+- company: "Der Niederlandst<br>*innenverband"
   img: 
   thumbnail: Niederlandist_innenverband.png
   subtitle:
   description:
   website: https://www.niederlandistenverband.org/unser-verband/
   contact:
+
+- company: "Universitätsgesellschaft<br>des Saarlandes"
+  thumbnail: UGDS.jpg
+  website: https://www.unigesellschaft-saarland.de/
 
 
 
