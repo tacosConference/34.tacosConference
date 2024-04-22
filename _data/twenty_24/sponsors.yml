@@ -14,6 +14,14 @@
   website: https://gal-ev.de/
   contact:
 
+- company: "Gesellschaft für Sprachtechnologie und Computerlinguistik"
+  img: 
+  thumbnail: GSCL.png
+  subtitle:
+  description:
+  website: https://www.gscl.org/
+  contact:
+
 - company: "Information Density and Linguistic Encoding (iDeaL)"
   img:
   thumbnail: iDeaL.png
@@ -21,6 +29,11 @@
   description:
   website: https://sfb1102.uni-saarland.de/
   contact: contact
+
+- company: "Linguistik Portal für Sprachwissenschaft"
+  thumbnail: linguistik.png
+  website: https://linguistik.de/
+
 
 - company: "Multilinguality and Language Technology (DFKI)"
   thumbnail: DFKI_Logo_MLT_en.png
