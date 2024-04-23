@@ -6,6 +6,8 @@
   website: https://dgfs.de/
   contact:
 
+
+
 - company: "Gesellschaft für Angewandte Linguistik e.V."
   img: 
   thumbnail: logo_gal.png
@@ -51,7 +53,9 @@
   thumbnail: UGDS.jpg
   website: https://www.unigesellschaft-saarland.de/
 
-
+- company: "Friends of LST"
+  thumbnail: friends-of-lst.png
+  website: https://www.uni-saarland.de/aktuell/70-jahr-feier-angewandte-sprachwissenschaften-uebersetzen-und-dolmetschen-am-08122018-22174.html#:~:text=Organisation%3A%20Amicale%20%2D%20Friends%20of%20LST
 
 # - company: "TBD"
 #   img: 
