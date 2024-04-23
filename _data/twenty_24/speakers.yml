@@ -1,29 +1,32 @@
-- title: "title"
+- title: "Vera Demberg"
   name: name
-  subtitle: subtitle
-  img: 
-  thumbnail: 
+  subtitle: TBD
+  img:
+  thumbnail: demberg.jpeg
   alt: alt
-  topic: topic
+  topic: 
   description: description
+  website: https://www.uni-saarland.de/lehrstuhl/demberg.html
 
-- title: "TBD"
+- title: "Michael Hahn"
   name: TBD
   subtitle: TBD
   img: 
-  thumbnail: 
+  thumbnail: hahn.jpeg
   alt: TBD
   topic: TBD
   description: TBD
+  website: https://www.mhahn.info/
 
-- title: "TBD"
+- title: "Simon Ostermann"
   name: TBD
-  subtitle: TBD
+  subtitle: "White Box & Black Box: Two Perspectives on Explainable Natural Language Processing"
   img: 
-  thumbnail: 
+  thumbnail: ostermann.jpeg
   alt: TBD
   topic: TBD
   description: TBD
+  website: https://simonost.github.io/home/
   
 #- title: Name
 #  name: Name-4
