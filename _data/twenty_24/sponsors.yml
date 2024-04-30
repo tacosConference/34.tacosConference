@@ -41,6 +41,11 @@
   thumbnail: DFKI_Logo_MLT_en.png
   website: https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
 
+
+- company: "RTG Neuroexplicit Models"
+  thumbnail: neuroexplicit.png
+  website: https://www.neuroexplicit.org/
+
 - company: "Der Niederlandst<br>*innenverband"
   img: 
   thumbnail: Niederlandist_innenverband.png
