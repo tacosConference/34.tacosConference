@@ -1,3 +1,7 @@
+- company: "Association for Computation Linguistics, European Chapter"
+  thumbnail: EACL_narrow.png
+  website: https://eacl.org/
+
 - company: "Deutsche Gesellschaft für Sprachwissenschaft"
   img: 
   thumbnail: DGFS.png
@@ -5,8 +9,6 @@
   description:
   website: https://dgfs.de/
   contact:
-
-
 
 - company: "Gesellschaft für Angewandte Linguistik e.V."
   img: 
@@ -37,10 +39,10 @@
   website: https://linguistik.de/
 
 
-- company: "Multilinguality and Language Technology (DFKI)"
-  thumbnail: DFKI_Logo_MLT_en.png
-  website: https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
 
+- company: "Narr Francke Attempto Verlag"
+  thumbnail: NARR.png
+  website: https://www.narr.de/
 
 - company: "RTG Neuroexplicit Models"
   thumbnail: neuroexplicit.png
@@ -62,6 +64,9 @@
   thumbnail: friends-of-lst.png
   website: https://www.uni-saarland.de/aktuell/70-jahr-feier-angewandte-sprachwissenschaften-uebersetzen-und-dolmetschen-am-08122018-22174.html#:~:text=Organisation%3A%20Amicale%20%2D%20Friends%20of%20LST
 
+- company: "Multilinguality and Language Technology (DFKI)"
+  thumbnail: DFKI_Logo_MLT_en.png
+  website: https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology
 # - company: "TBD"
 #   img: 
 #   thumbnail: 
