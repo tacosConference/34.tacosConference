@@ -1,0 +1,558 @@
+<style>
+  body {
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0;
+  }
+
+  table, tr {
+    height: 100%;
+  }
+
+  h1 {
+      text-align: center;
+      color: #343a40;
+  }
+
+  table {
+      border-collapse: collapse;
+      margin: 20px auto;
+      background-color: #f7efe2;
+      border: 2px solid #dee2e6;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  tr td {
+      /* height: inherit; */
+      border: 1px solid #dee2e6;
+      padding: 0px 10px;
+      width: 30%;
+      /* text-align: center; */
+  }
+
+  tr .timespan {
+    border: 1px solid #343a40;
+    height: 123px;
+  }
+
+  /* td[rowspan="2"] .event {
+    height: 220px;
+  } */
+  
+  .timespan {
+    width: 10%;
+    height: 100px;
+  }
+
+  th {
+    text-align: center;
+  }
+
+  .event {
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+    height: 100%;
+    margin: 5px 0px;
+    padding: 10px;
+    border-style: solid;
+    position: relative;
+  }
+
+  .event-title {
+    height: 50px;
+    margin-left: 10px;
+    font-size: 18px;
+  }
+
+  .people {
+    height: 40px;
+    margin-left: 10px;
+    font-size: 15px;
+  }
+
+  .event-room {
+    height: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 0;
+  }
+
+  .talk {
+    background-color: #dcdff0;
+  }
+
+  .other {
+    background-color: #f2f4c2;
+  }
+
+  .lecture {
+    background-color: #fae0e1;
+  }
+
+  .podium {
+    background-color: #c9e7d0;
+  }
+
+  .workshop {
+    background-color: #c9e7d0;
+  }
+
+  .break {
+    background-color: #ffe1bb;
+  }
+
+  .social {
+    background-color: #ffe1bb;
+  }
+
+  th {
+      background-color: #f2f2f2;
+      color: #343a40;
+  }
+
+  .highlight {
+      background-color: #f8f9fa;
+  }
+
+  .special {
+      background-color: #f0f0f0;
+  }
+
+  /* Style the tab */
+  .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+
+  /* Style the buttons that are used to open the tab content */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-weight: bold;
+  }
+
+  /* Change background color of buttons on hover */
+  .tab button:hover {
+    background-color: #ddd;
+  }
+
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+</style>
+<script>
+  function openDay(evt, day) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(day).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+<section id="timetable" class="bg-light-gray">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Timetable</h2>
+              <p>We are looking forward to seeing you at our conference! Here's what we have in store for you:</p>
+              <!-- <h3 class="section-subheading text-muted">This could be you!</h3> -->
+          </div>
+      </div>
+      
+      <div class="row">
+        <div class="tab">
+          <button class="tablinks" onclick="openDay(event, 'Thursday')">Thursday, 16.05.2024</button>
+          <button class="tablinks" onclick="openDay(event, 'Friday')">Friday, 17.05.2024</button>
+          <button class="tablinks" onclick="openDay(event, 'Saturday')">Saturday, 18.05.2024</button>
+        </div>
+
+        <div id="Thursday" class="tabcontent">
+          <table>
+            <tr id="9.0">
+            <td class="timespan">09:00-09:30</td>
+            <td colspan="2" rowspan="2"><div class="event other"><div class="event-title">Opening Session</div><div class="people">Katja Konermann, Misha Sonkin, Bri Lehman</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            
+            </tr>
+            <tr id="9.5">
+            <td class="timespan">09:30-10:00</td>
+            <!-- <td></td> -->
+            <!-- <td></td> -->
+            </tr>
+            <tr id="10.0">
+            <td class="timespan">10:00-10:30</td>
+            <td colspan="2" rowspan="2"><div class="event lecture"><div class="event-title">Keynote: Pragmatic Processing in Humans and Large Language Models</div><div class="people">Vera Demberg</div><div class="people"><b>Followed by:</b> Learn about LinguistikPortal</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            <!-- <td></td> -->
+          </tr>
+          <tr id="10.5">
+            <td class="timespan">10:30-11:00</td>
+            <!-- <td></td> -->
+            <!-- <td colspan="2"><div class="event other"><div class="event-title">Learn about LinguistikPortal</div><div class="people"></div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td> -->
+            <!-- <td></td> -->
+            </tr>
+            <tr id="11.0">
+            <td class="timespan">11:00-11:30</td>
+            <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
+            <!-- <td></td> -->
+            </tr>
+            <tr id="11.5">
+            <td class="timespan">11:30-12:00</td>
+            <td>
+              <div class="event talk"><div class="event-title">"Equal goes it loose"</div><div class="people">Leonie Harter</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div>
+            </td>
+            <td><div class="event talk"><div class="event-title">Computational approaches to verbal aspect</div><div class="people">Samuel Innes</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            </tr>
+            <tr id="12.0">
+            <td class="timespan">12:00-12:30</td>
+            <td><div class="event talk"><div class="event-title">Limitations of Code Benchmarks</div><div class="people">Jan Kels</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><div class="event-title">Multilingual Sentiment Analysis: Fine-Tuning Pre-Trained Models for Mizo Sentiment Classification</div><div class="people">Ravi Kiran Chikkala</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            </tr>
+            <tr id="12.5">
+            <td class="timespan">12:30-13:00</td>
+            <td colspan="2" rowspan="2"><div class="event break"><div class="event-title">Lunch Break</div><div class="event-room"><b>Mensa, D4.1</b></div></div></td>
+            </tr>
+            <tr id="13.0">
+            <td class="timespan">13:00-13:30</td>
+            </tr>
+            <tr id="13.5">
+            <td class="timespan">13:30-14:00</td>
+            <td rowspan="2"><div class="event workshop"><div class="event-title">Probe Ability Theory</div><div class="people">Misha Sonkin, Katja Konermann</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><div class="event-title">Revisiting nltk-drt: DRT extension for NLTK updated and improved</div><div class="people">Fedor Sizov</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            </tr>
+            <tr id="14.0">
+            <td class="timespan">14:00-14:30</td>
+            <!-- <td></td> -->
+            <td></td>
+            </tr>
+            <tr id="14.5">
+            <td class="timespan">14:30-15:00</td>
+            <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
+            </tr>
+            <tr id="15.0">
+            <td class="timespan">15:00-15:30</td>
+            <td colspan="2" rowspan="2"><div class="event lecture"><div class="event-title">Keynote: White Box &amp; Black Box: Two Perspectives on Explainable Natural Language Processing</div><div class="people">Simon Ostermann</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            
+            </tr>
+            <tr id="15.5">
+            <td class="timespan">15:30-16:00</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="16.0">
+            <td class="timespan">16:00-16:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="16.5">
+            <td class="timespan">16:30-17:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="17.0">
+            <td class="timespan">17:00-17:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="17.5">
+            <td class="timespan">17:30-18:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="18.0">
+            <td class="timespan">18:00-18:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="18.5">
+            <td class="timespan">18:30-19:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="19.0">
+            <td class="timespan">19:00-19:30</td>
+            <td colspan="2" rowspan="3"><div class="event social"><div class="event-title">Bar Night</div><div class="event-room"><b>Saarbrücken City!</b></div></div></td>
+            </tr>
+            <tr id="19.5">
+            <td class="timespan">19:30-20:00</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="20.0">
+            <td class="timespan">20:00-20:30</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+          </table>
+        </div>
+        
+
+
+
+        <div id="Friday" class="tabcontent">
+          <table>
+            <tr id="9.0">
+            <td class="timespan">09:00-09:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="9.5">
+            <td class="timespan">09:30-10:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="10.0">
+            <td class="timespan">10:00-10:30</td>
+            <td colspan="2" rowspan="2"><div class="event lecture"><div class="event-title">Keynote: Language Processing in Humans and Machines</div><div class="people">Michael Hahn</div><div class="people"><b>Followed by:</b> Learn about Text+</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            
+            </tr>
+            <tr id="10.5">
+            <td class="timespan">10:30-11:00</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="11.0">
+            <td class="timespan">11:00-11:30</td>
+            <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="people"></div><div class="event-room"><b>Foyer, C7.4</b></div></div></td>
+            
+            </tr>
+            <tr id="11.5">
+            <td class="timespan">11:30-12:00</td>
+            <td rowspan="3"><div class="event workshop"><div class="event-title">Surprisal from Large Language Models</div><div class="people">AriaRay Brown</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><div class="event-title">Computer-aided assessment of speech fluency of preschool children</div><div class="people">Valentin Kany</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            </tr>
+            <tr id="12.0">
+            <td class="timespan">12:00-12:30</td>
+            <td><div class="event talk"><div class="event-title">Using information theory to explain language change</div><div class="people">Hannes Düe</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <!-- <td></td> -->
+            </tr>
+            <tr id="12.5">
+            <td class="timespan">12:30-13:00</td>
+
+            <td><div class="event other"><div class="event-title">Learn about the RTG Neuroexplicit Models</div><div class="people"></div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            </tr>
+
+            <tr id="13.0">
+            <td class="timespan">13:00-13:30</td>
+            <td colspan="2" rowspan="2"><div class="event break"><div class="event-title">Lunch Break</div><div class="event-room"><b>Mensa, D4.1</b></div></div></td>
+            </tr>
+            <tr id="13.5">
+            <td class="timespan">13:30-14:00</td>
+            </tr>
+
+            </tr>
+            <tr id="14.0">
+            <td class="timespan">14:00-14:30</td>
+            <td colspan="2" rowspan="3"><div class="event podium"><div class="event-title">Academia or Industry? A Computational Linguist's Perspective</div><div class="people"><b>Round Table: </b>Andreas Rouvalis, Akash Kumar Gautam, Torsten Kai Jachmann, Manuel John, Yulia Zaitova</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            
+            </tr>
+            <tr id="14.5">
+            <td class="timespan">14:30-15:00</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="15.0">
+            <td class="timespan">15:00-15:30</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="15.5">
+            <td class="timespan">15:30-16:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="16.0">
+            <td class="timespan">16:00-16:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="16.5">
+            <td class="timespan">16:30-17:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="17.0">
+            <td class="timespan">17:00-17:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="17.5">
+            <td class="timespan">17:30-18:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="18.0">
+            <td class="timespan">18:00-18:30</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="18.5">
+            <td class="timespan">18:30-19:00</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr id="19.0">
+            <td class="timespan">19:00-19:30</td>
+            <td colspan="2" rowspan="3"><div class="event social"><div class="event-title">Board Game Night</div><div class="event-room"><b>Foyer, C7.4</b></div></div></td>
+            </tr>
+            <tr id="19.5">
+            <td class="timespan">19:30-20:00</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+            <tr id="20.0">
+            <td class="timespan">20:00-20:30</td>
+            <!-- <td></td>
+            <td></td> -->
+            </tr>
+          </table>
+        </div>
+        
+
+
+
+
+
+        <div id="Saturday" class="tabcontent">
+          <table>
+          <tr id="9.0">
+          <td class="timespan">09:00-09:30</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="9.5">
+          <td class="timespan">09:30-10:00</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="10.0">
+          <td class="timespan">10:00-10:30</td>
+          <td colspan="2" rowspan="2"><div class="event lecture"><div class="event-title">Keynote: Measuring Spurious Correlation in Classification: ”Clever Hans” in Translationese</div><div class="people">Joseph van Genabith</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+
+          </tr>
+          <tr id="10.5">
+          <td class="timespan">10:30-11:00</td>
+          </tr>
+
+          <tr id="11.0">
+          <td class="timespan">11:00-11:30</td>
+          <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="people"></div><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
+          </tr>
+          <tr id="11.5">
+          <td class="timespan">11:30-12:00</td>
+          <td rowspan="2"><div class="event workshop"><div class="event-title">Transformers or RNNs or SSMs : Who's more sensitive?</div><div class="people">Yana Veitsman, Yash Sarrof, Mark Rofin</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+          <td><div class="event talk"><div class="event-title">"Bogue" statt "Bug": Eine typologische Analyse der französischen Ersatzwörter für Anglizismen</div><div class="people">Paulina Hussein</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+          </tr>
+          <tr id="12.0">
+          <td class="timespan">12:00-12:30</td>
+          <td></td>
+          </tr>
+          <tr id="12.5">
+          <td class="timespan">12:30-13:00</td>
+          <td colspan="2" rowspan="3"><div class="event break"><div class="event-title">Lunch Break</div><div class="people"><b>Catering by:</b> AC Saarbrücken</div><div class="event-room"><b>Foyer, C7.4</b></div></div></td>
+          </tr>
+          <tr id="13.0">
+          <td class="timespan">13:00-13:30</td>
+          </tr>
+          <tr id="13.5">
+          <td class="timespan">13:30-14:00</td>
+          </tr>
+          <tr id="14.0">
+          <td class="timespan">14:00-14:30</td>
+          <td colspan="2" rowspan="2"><div class="event other"><div class="event-title">Closing Session</div><div class="people">Katja Konermann, Misha Sonkin, Bri Lehman</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+
+          </tr>
+          <tr id="14.5">
+          <td class="timespan">14:30-15:00</td>
+          <!-- <td></td>
+          <td></td> -->
+          </tr>
+          <tr id="15.0">
+          <td class="timespan">15:00-15:30</td>
+          <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="people"></div><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
+          </tr>
+          <tr id="15.5">
+          <td class="timespan">15:30-16:00</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="16.0">
+          <td class="timespan">16:00-16:30</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="16.5">
+          <td class="timespan">16:30-17:00</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="17.0">
+          <td class="timespan">17:00-17:30</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="17.5">
+          <td class="timespan">17:30-18:00</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="18.0">
+          <td class="timespan">18:00-18:30</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="18.5">
+          <td class="timespan">18:30-19:00</td>
+          <td></td>
+          <td></td>
+          </tr>
+          <tr id="19.0">
+          <td class="timespan">19:00-19:30</td>
+          <td colspan="2" rowspan="3"><div class="event social"><div class="event-title">Pub Quiz + Afterparty</div><div class="event-room"><b>Library Room in A2.2</b></div></div></td>
+          </tr>
+          <tr id="19.5">
+          <td class="timespan">19:30-20:00</td>
+          <!-- <td></td>
+          <td></td> -->
+          </tr>
+          <tr id="20.0">
+          <td class="timespan">20:00-20:30</td>
+          <!-- <td></td>
+          <td></td> -->
+          </tr>
+          </table>
+        </div>
+
+        
+      </div>
+    </div>
+</section>
