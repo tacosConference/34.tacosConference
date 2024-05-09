@@ -35,6 +35,10 @@
     height: 123px;
   }
 
+  a {
+    color: black;
+  }
+
   /* td[rowspan="2"] .event {
     height: 220px;
   } */
@@ -60,24 +64,27 @@
   }
 
   .event-title {
-    height: 50px;
+    /* height: 50px; */
     margin-left: 10px;
     font-size: 1.2vw;
+    /* display: block; */
   }
 
   .people {
-    height: 40px;
+    /* height: 40px; */
     margin-left: 10px;
-    font-size: 0.8vw;
+    font-size: 1vw;
+    /* display: block; */
   }
 
   .event-room {
-    height: 20px;
+    /* height: 20px; */
     margin-left: 10px;
     margin-bottom: 10px;
     position: absolute;
     bottom: 0;
-    font-size: 0.8vw;
+    font-size: 1vw;
+    /* display: block; */
   }
 
   .talk {
@@ -202,7 +209,7 @@
           <table>
             <tr id="9.0">
             <td class="timespan">09:00-09:30</td>
-            <td colspan="2" rowspan="2"><div class="event other"><div class="event-title">Opening Session</div><div class="people">Katja Konermann, Misha Sonkin, Bri Lehman</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            <td colspan="2" rowspan="2"><div class="event other"><a class="speakers-link" data-toggle="modal" href="#Opening-Session"><div class="event-title">Opening Session</div></a><div class="people">Katja Konermann, Misha Sonkin, Bri Lehman</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
             
             </tr>
             <tr id="9.5">
@@ -212,7 +219,11 @@
             </tr>
             <tr id="10.0">
             <td class="timespan">10:00-10:30</td>
-            <td colspan="2" rowspan="2"><div class="event lecture"><div class="event-title">Keynote: Pragmatic Processing in Humans and Large Language Models</div><div class="people">Vera Demberg</div><div class="people"><b>Followed by:</b> Learn about LinguistikPortal</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            <td colspan="2" rowspan="2"><div class="event lecture"><a class="speakers-link" data-toggle="modal" href="#Keynote-Pragmatic-Processing-in-Humans-and-Large-Language-Models">
+              <div class="event-title">
+               Keynote: Pragmatic Processing in Humans and Large Language Models
+              </div>
+             </a><div class="people">Vera Demberg</div><div class="people"><b>Followed by:</b> Learn about LinguistikPortal</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
             <!-- <td></td> -->
           </tr>
           <tr id="10.5">
@@ -223,20 +234,38 @@
             </tr>
             <tr id="11.0">
             <td class="timespan">11:00-11:30</td>
-            <td colspan="2"><div class="event break"><div class="event-title">Coffee Break</div><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
+            <td colspan="2"><div class="event break">
+            <a href="#coffee" class="speakers-link" data-toggle="modal">
+            <div class="event-title">Coffee Break</div></a><div class="event-room"><b>Foyer, C7.4 </b></div></div></td>
             <!-- <td></td> -->
             </tr>
             <tr id="11.5">
             <td class="timespan">11:30-12:00</td>
             <td>
-              <div class="event talk"><div class="event-title">"Equal goes it loose"</div><div class="people">Leonie Harter</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div>
+              <div class="event talk"><a class="speakers-link" data-toggle="modal" href='#Equal-goes-it-loose'>
+                <div class="event-title">
+                 "Equal goes it loose"
+                </div>
+               </a><div class="people">Leonie Harter</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div>
             </td>
-            <td><div class="event talk"><div class="event-title">Computational approaches to verbal aspect</div><div class="people">Samuel Innes</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Computational-approaches-to-verbal-aspect">
+              <div class="event-title">
+               Computational approaches to verbal aspect
+              </div>
+             </a><div class="people">Samuel Innes</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             </tr>
             <tr id="12.0">
             <td class="timespan">12:00-12:30</td>
-            <td><div class="event talk"><div class="event-title">Limitations of Code Benchmarks</div><div class="people">Jan Kels</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
-            <td><div class="event talk"><div class="event-title">Multilingual Sentiment Analysis: Fine-Tuning Pre-Trained Models for Mizo Sentiment Classification</div><div class="people">Ravi Kiran Chikkala</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Limitations-of-Code-Benchmarks">
+              <div class="event-title">
+               Limitations of Code Benchmarks
+              </div>
+             </a><div class="people">Jan Kels</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Multilingual-Sentiment-Analysis-Fine-Tuning-Pre-Trained-Models-for-Mizo-Sentiment-Classification">
+              <div class="event-title">
+               Multilingual Sentiment Analysis: Fine-Tuning Pre-Trained Models for Mizo Sentiment Classification
+              </div>
+             </a><div class="people">Ravi Kiran Chikkala</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             </tr>
             <tr id="12.5">
             <td class="timespan">12:30-13:00</td>
@@ -247,8 +276,16 @@
             </tr>
             <tr id="13.5">
             <td class="timespan">13:30-14:00</td>
-            <td rowspan="2"><div class="event workshop"><div class="event-title">Probe Ability Theory</div><div class="people">Misha Sonkin, Katja Konermann</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
-            <td><div class="event talk"><div class="event-title">Revisiting nltk-drt: DRT extension for NLTK updated and improved</div><div class="people">Fedor Sizov</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td rowspan="2"><div class="event workshop"><a class="speakers-link" data-toggle="modal" href="#Probe-Ability-Theory">
+              <div class="event-title">
+               Probe Ability Theory
+              </div>
+             </a><div class="people">Misha Sonkin, Katja Konermann</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Revisiting-nltk-drt-DRT-extension-for-NLTK-updated-and-improved">
+              <div class="event-title">
+               Revisiting nltk-drt: DRT extension for NLTK updated and improved
+              </div>
+             </a><div class="people">Fedor Sizov</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             </tr>
             <tr id="14.0">
             <td class="timespan">14:00-14:30</td>
@@ -348,18 +385,34 @@
             </tr>
             <tr id="11.5">
             <td class="timespan">11:30-12:00</td>
-            <td rowspan="3"><div class="event workshop"><div class="event-title">Surprisal from Large Language Models</div><div class="people">AriaRay Brown</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
-            <td><div class="event talk"><div class="event-title">Computer-aided assessment of speech fluency of preschool children</div><div class="people">Valentin Kany</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td rowspan="3"><div class="event workshop"><a class="speakers-link" data-toggle="modal" href="#Surprisal-from-Large-Language-Models">
+              <div class="event-title">
+               Surprisal from Large Language Models
+              </div>
+             </a><div class="people">AriaRay Brown</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Computer-aided-assessment-of-speech-fluency-of-preschool-children">
+              <div class="event-title">
+               Computer-aided assessment of speech fluency of preschool children
+              </div>
+             </a><div class="people">Valentin Kany</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             </tr>
             <tr id="12.0">
             <td class="timespan">12:00-12:30</td>
-            <td><div class="event talk"><div class="event-title">Using information theory to explain language change</div><div class="people">Hannes Düe</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href="#Using-information-theory-to-explain-language-change">
+              <div class="event-title">
+               Using information theory to explain language change
+              </div>
+             </a><div class="people">Hannes Düe</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             <!-- <td></td> -->
             </tr>
             <tr id="12.5">
             <td class="timespan">12:30-13:00</td>
 
-            <td><div class="event other"><div class="event-title">Learn about the RTG Neuroexplicit Models</div><div class="people"></div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+            <td><div class="event other"><a class="speakers-link" data-toggle="modal" href="#Learn-about-the-RTG-Neuroexplicit-Models">
+              <div class="event-title">
+               Learn about the RTG Neuroexplicit Models
+              </div>
+             </a><div class="people"></div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
             </tr>
 
             <tr id="13.0">
@@ -373,7 +426,12 @@
             </tr>
             <tr id="14.0">
             <td class="timespan">14:00-14:30</td>
-            <td colspan="2" rowspan="3"><div class="event podium"><div class="event-title">Academia or Industry? A Computational Linguist's Perspective</div><div class="people"><b>Round Table: </b>Andreas Rouvalis, Akash Kumar Gautam, Torsten Kai Jachmann, Manuel John, Yulia Zaitova</div><div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
+            <td colspan="2" rowspan="3"><div class="event podium"><a class="speakers-link" data-toggle="modal" href="#Academia-or-Industry-A-Computational-Linguists-Perspective">
+              <div class="event-title">
+               Academia or Industry? A Computational Linguist's Perspective
+              </div>
+             </a>
+             <div class="event-room"><b>Room 1.117, C7.4 </b></div></div></td>
             
             </tr>
             <tr id="14.5">
@@ -470,8 +528,16 @@
           </tr>
           <tr id="11.5">
           <td class="timespan">11:30-12:00</td>
-          <td rowspan="2"><div class="event workshop"><div class="event-title">Transformers or RNNs or SSMs : Who's more sensitive?</div><div class="people">Yana Veitsman, Yash Sarrof, Mark Rofin</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
-          <td><div class="event talk"><div class="event-title">"Bogue" statt "Bug": Eine typologische Analyse der französischen Ersatzwörter für Anglizismen</div><div class="people">Paulina Hussein</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
+          <td rowspan="2"><div class="event workshop"><a class="speakers-link" data-toggle="modal" href="#Transformers-or-RNNs-or-SSMs-Whos-more-sensitive">
+            <div class="event-title">
+             Transformers or RNNs or SSMs: Who's more sensitive?
+            </div>
+           </a><div class="people">Yana Veitsman, Yash Sarrof, Mark Rofin</div><div class="event-room"><b>Room 2.07.1, A2.2</b></div></div></td>
+          <td><div class="event talk"><a class="speakers-link" data-toggle="modal" href='#Bogue-statt-Bug-Eine-typologische-Analyse-der-französischen-Ersatzwörter-für-Anglizismen'>
+            <div class="event-title">
+             "Bogue" statt "Bug": Eine typologische Analyse der französischen Ersatzwörter für Anglizismen
+            </div>
+           </a><div class="people">Paulina Hussein</div><div class="event-room"><b>Room 2.16, A2.2</b></div></div></td>
           </tr>
           <tr id="12.0">
           <td class="timespan">12:00-12:30</td>
