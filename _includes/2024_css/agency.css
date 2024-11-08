@@ -326,7 +326,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: #{{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #f7efe2;
+    color: #DCF8FB;
 }
 
 .navbar-default.navbar-shrink .nav li a {
@@ -352,7 +352,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #f7efe2;
+    background-color: #fDCF8FB;
     color: #fff;
 }
 
