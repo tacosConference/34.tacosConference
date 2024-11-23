@@ -8,7 +8,8 @@
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
-        <div class="titles_row">
+        <div class="row">
+            <div class="titles">
             {% for team in site.data.twenty_24.team_titles %}
                 <div class="col-md-4 col-sm-4 speakers-item">
                     <a href="#{{ team.ref }}" class="speakers-link" data-toggle="modal">
@@ -27,6 +28,7 @@
                 </div>
             {% endfor %}
             </div>
+        </div>
         <div class="row">
         {% for team in site.data.twenty_24.teams_no_titles %}
             <div class="col-md-4 col-sm-4 speakers-item">
