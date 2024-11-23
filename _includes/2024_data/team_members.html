@@ -9,7 +9,26 @@
             </div>
         </div>
         <div class="row">
-        {% for team in site.data.twenty_24.teams %}
+            {% for team in site.data.twenty_24.team_titles %}
+                <div class="col-md-4 col-sm-4 speakers-item">
+                    <a href="#{{ team.ref }}" class="speakers-link" data-toggle="modal">
+                        <div class="speakers-hover">
+                            <div class="speakers-hover-content">
+                            </div>
+                        </div>
+                        <img src="../css/2024_style/img/team/{{ team.img }}" class="img-responsive img-headshot" alt="{{ team.ref }}">
+                    </a>
+                    <div class="speakers-caption">
+                        <center>
+                        <h4>{{ team.name }}</h4>
+                        <p class="text-muted">{{ team.title }}</p>
+                        </center>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        <div class="row">
+        {% for team in site.data.twenty_24.teams_no_titles %}
             <div class="col-md-4 col-sm-4 speakers-item">
                 <a href="#{{ team.ref }}" class="speakers-link" data-toggle="modal">
                     <div class="speakers-hover">

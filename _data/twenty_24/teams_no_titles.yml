@@ -1,17 +1,3 @@
-- title: "Chair"
-  ref: Ilka
-  name: "Ilka Plesse"
-  img: Ilka-Plesse.jpg
-  description: description (placeholder)
-  email: Ilka.Plesse@rub.de
-
-- title: "Vice Chair"
-  name: "Sergei Tsetsadze"
-  ref: Sergei
-  img: Sergei-Tsetsadze.jpg
-  description: description (placeholder)
-  email: Sergei.Tsetsadze@rub.de
-
 - title: " "
   name: "Mariia Neguliaeva"
   ref: Maria
