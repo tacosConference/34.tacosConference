@@ -11,6 +11,27 @@
   description: 
   email: email (placeholder)
 
+- title: " "
+  name: "Oleksandra Yazdanfar"
+  ref: Oleksandra
+  img: Oleksandra-Yazdanfar.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Conny Ziegs"
+  ref: Conny
+  img: Conny-Ziegs.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Carina Zander"
+  ref: Carina
+  img: Carina-Zander.jpg
+  description: 
+  email: email (placeholder)
+
 # - title: "Administrative Assistant"
 #  name: "Bri Lehman"
 #  ref: Bri
@@ -40,21 +61,3 @@
 #  img: Marc-Altmeyer.jpg
 #  description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."
 #  email: marcaltmeyer.ma@gmail.com
-
-# - title: ""
-#   name: Ben
-#   ref: Ben
-#   img: TBD.jpg
-#   topic: 
-#   description: 
-#   email: 
-#   website: 
-
-# - title: ""
-#   name: Urs
-#   ref: Urs
-#   img: 
-#   topic: TBD
-#   description: TBD
-#   email: TBD
-#   website: TBD

@@ -9,6 +9,7 @@
             </div>
         </div>
         <div class="row">
+            <center>
             {% for team in site.data.twenty_24.team_titles %}
                 <div class="col-md-4 col-sm-4 speakers-item">
                     <a href="#{{ team.ref }}" class="speakers-link" data-toggle="modal">
@@ -26,6 +27,7 @@
                     </div>
                 </div>
             {% endfor %}
+            </center>
             </div>
         <div class="row">
         {% for team in site.data.twenty_24.teams_no_titles %}
