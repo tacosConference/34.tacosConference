@@ -3,16 +3,16 @@
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  headline: Sponsorship Booklet, 24 November
+  headline: "24 November: Sponsorship Booklet available"
   text: Interested in backing us? Download our sponsor booklet, learn more and reach out!
-  linktext: Sponsorship Booklet
+  linktext: Click here
   link: /booklet
 
 - inverted:
   img: tacos_2025_logo.png
-  headline: So it begins, 15 October
+  headline: "15 October: So it begins..." 
   text: We've begun organizing the 34th TaCoS conference! Check back here for updates.
-  linktext: Previous Updates
+  linktext: All updates
   link: /news
 
 #  - inverted: timeline-inverted
