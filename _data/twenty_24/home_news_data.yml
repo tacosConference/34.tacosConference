@@ -26,8 +26,8 @@
 #  linktext: Venue
 #  link: /venue
 
-#  - inverted: timeline-inverted
-#  img: booklet-icon.png
-#  name: Sponsor Booklet
-#  info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
-#  link: ""
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Sponsor Booklet
+  info: Interested in backing us? Download our sponsor booklet, learn more and reach out!
+  link: css\2024_style\pdfs_etc\Sponsor-Flyer-2025.pdf
