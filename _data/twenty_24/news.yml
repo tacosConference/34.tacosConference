@@ -1,5 +1,6 @@
 #- headline: news headline, including date
 #  text: text of news item
+
 - inverted: timeline-inverted
   img: booklet-icon.png
   headline: Sponsorship Booklet, 24 November
@@ -9,7 +10,7 @@
 
 - inverted:
   img: tacos_2025_logo.png
-  title: So it begins, 15 October
+  headline: So it begins, 15 October
   text: We've begun organizing the 34th TaCoS conference! Check back here for updates.
   linktext: Previous Updates
   link: /news
