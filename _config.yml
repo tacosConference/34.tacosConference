@@ -29,6 +29,8 @@ social:
   #  url: https://twitter.com/tacosconference
   - title: instagram
     url: https://www.instagram.com/tacosconference/
+  - title: linkedin
+    url: https://www.linkedin.com/company/tacosconference/
 
 incremental: true
 permalink: pretty
