@@ -19,9 +19,9 @@
   email: email (placeholder)
 
 - title: " "
-  name: "Conny Ziegs"
+  name: "Cornelia Ziegs"
   ref: Conny
-  img: Conny-Ziegs.jpg
+  img: Cornelia-Ziegs.jpg
   description: 
   email: email (placeholder)
 
@@ -29,6 +29,13 @@
   name: "Carina Zander"
   ref: Carina
   img: Carina-Zander.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Ayanat Asan"
+  ref: Ayanat
+  img: Ayanat-Asan.jpg
   description: 
   email: email (placeholder)
 
