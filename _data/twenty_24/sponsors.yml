@@ -1,11 +1,3 @@
-- company: "Association for Computational Linguistics"
-  img: 
-  thumbnail: eacl-logo.jpg
-  subtitle: 
-  description: 
-  website: eacl.org
-  contact: 
-
 - company: "Python Software Verband"
   img: 
   thumbnail: PySV-logo.png
@@ -20,6 +12,14 @@
   subtitle: 
   description: 
   website: gscl.org
+  contact: 
+
+- company: "Association for Computational Linguistics"
+  img: 
+  thumbnail: eacl-logo.png
+  subtitle: 
+  description: 
+  website: eacl.org
   contact: 
 
 - company: "Deutsche Gesellschaft für Sprachwissenschaft"
