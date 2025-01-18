@@ -6,5 +6,21 @@
   website: eacl.org
   contact: 
 
+- company: "Python Software Verband"
+  img: 
+  thumbnail: PySV-logo.jpg
+  subtitle: 
+  description: 
+  website: python-verband.org
+  contact: 
+
+- company: "Gesellschaft für Sprachtechnologie und Computerlinguistik"
+  img: 
+  thumbnail: gscl-thumb.jpg
+  subtitle: 
+  description: 
+  website: gscl.org
+  contact: 
+
   
 
