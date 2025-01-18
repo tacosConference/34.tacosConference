@@ -16,10 +16,18 @@
 
 - company: "Gesellschaft für Sprachtechnologie und Computerlinguistik"
   img: 
-  thumbnail: gscl-thumb.jpg
+  thumbnail: gscl-logo.png
   subtitle: 
   description: 
   website: gscl.org
+  contact: 
+
+- company: "Deutsche Gesellschaft für Sprachwissenschaft"
+  img: 
+  thumbnail: dgfs-logo.png
+  subtitle: 
+  description: 
+  website: dgfs.de
   contact: 
 
   
