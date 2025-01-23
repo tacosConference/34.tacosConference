@@ -1,30 +1,30 @@
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
-  img: 
-  thumbnail: 
-  alt: TBD
+- title: "Prof. Dr. Stefanie Dipper"
+  name: Prof. Dr. Stefanie Dipper
+  subtitle: Ruhr University Bochum
+  img: Dipper.jpg
+  thumbnail: Dipper.jpg
+  alt: Photo of Stefanie Dipper
   topic: TBD
-  description: TBD
-
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
-  img: 
-  thumbnail: 
-  alt: TBD
-  topic: TBD
-  description: TBD
-
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
-  img: 
-  thumbnail: 
-  alt: TBD
-  topic: TBD
-  description: TBD
+  description: Stefanie Dipper's research focuses on resources and methods for analyzing historical language data. Among other things, she was involved in the creation of the widely used reference corpora of Middle and Early New High German. In more recent projects, she is working on the syntactic analysis of Middle High German within the framework of Universal Dependencies. She also studies the linguistic properties of metaphors in religious texts.
   
+- title: "Prof. Dr.-Ing. Torsten Zesch"
+  name: Prof. Dr.-Ing. Torsten Zesch
+  subtitle: FernUniversität in Hagen
+  img: Zesch.jpg
+  thumbnail: Zesch.jpg
+  alt: Photo of Torsten Zesch
+  topic: TBD
+  description: TBD
+
+- title: "Dr. Ronja Laarmann-Quante"
+  name: Dr. Ronja Laarmann-Quante
+  subtitle: Ruhr University Bochum
+  img: Laarmann-Quante.jpg
+  thumbnail: Laarmann-Quante.jpg
+  alt: Photo of Ronja Laarmann-Quante
+  topic: TBD
+  description: Ronja Laarmann-Quante studied Linguistics with a focus on Computational Linguistics at Ruhr-University Bochum between 2010 and 2015. Afterwards, she did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is back at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
+
 #- title: Name
 #  name: Name-4
 #  subtitle: Position
