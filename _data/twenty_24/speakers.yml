@@ -13,8 +13,8 @@
   img: zesch.jpg
   thumbnail: zesch.jpg
   alt: Photo of Torsten Zesch
-  topic: 
-  description: 
+  topic: Automatic Analysis of Learner Language to Support Learners
+  description: Torsten Zesch a full professor of Computational Linguistics at CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics). He holds a doctoral degree in computer science from Technische Universität Darmstadt and was the president of the German Society for Computational Linguistics and Language Technology (GSCL) from 2017 to 2023. His main research interests are in educational natural language processing, in particular the ways in which teaching and learning processes can be supported by language technology. For this purpose, he develops methods for the automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
 
 - title: "Prof. Dr. Sina Zarrieß"
   name: Prof. Dr. Sina Zarrieß
@@ -22,7 +22,7 @@
   img: zarrieß.jpg
   thumbnail: zarrieß.jpg
   alt: Photo of Sina Zarrieß
-  topic: 
+  topic: Challenging large and small language models with simple linguistic tasks
   description: Sina Zarrieß is a professor for Computational Linguistics at Bielefeld University. Previously, she held a junior professorship for Digital Humanities, Language Technology and Machine Learning at the University of Jena. She obtained her PhD at the Institute for Natural Language Processing at Stuttgart University and spent her post-doc at the University of Bielefeld as a member of the Excellence Cluster for Cognitive Interaction Technology. Her research focuses on computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language & vision. 
 
 - title: "Dr. Ronja Laarmann-Quante"
