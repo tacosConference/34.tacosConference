@@ -14,7 +14,7 @@
   thumbnail: zesch.jpg
   alt: Photo of Torsten Zesch
   topic: Automatic Analysis of Learner Language to Support Learners
-  description: Torsten Zesch a full professor of Computational Linguistics at CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics). He holds a doctoral degree in computer science from Technische Universität Darmstadt and was the president of the German Society for Computational Linguistics and Language Technology (GSCL) from 2017 to 2023. His main research interests are in educational natural language processing, in particular the ways in which teaching and learning processes can be supported by language technology. For this purpose, he develops methods for the automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
+  description: Torsten Zesch is a professor of Computational Linguistics at CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics). He was the president of the German Society for Computational Linguistics and Language Technology (GSCL) from 2017 to 2023. His main research interests are in educational natural language processing, in particular the ways in which teaching and learning processes can be supported by language technology. For this purpose, he develops methods for the automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
 
 - title: "Prof. Dr. Sina Zarrieß"
   name: Prof. Dr. Sina Zarrieß
@@ -32,7 +32,7 @@
   thumbnail: laarmann-quante.png
   alt: Photo of Ronja Laarmann-Quante
   topic: 
-  description: Ronja Laarmann-Quante did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is back at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
+  description: Ronja Laarmann-Quante did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
 
 #- title: Name
 #  name: Name-4
