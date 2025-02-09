@@ -14,6 +14,14 @@
   website: gscl.org
   contact: 
 
+- company: "Sammlungen Linguistik"
+  img: 
+  thumbnail: sam_ling-logo.png
+  subtitle: 
+  description: 
+  website: 
+  contact: 
+
 - company: "Association for Computational Linguistics"
   img: 
   thumbnail: eacl-logo.png
@@ -28,6 +36,30 @@
   subtitle: 
   description: 
   website: dgfs.de
+  contact: 
+
+- company: "Gesellschaft für Angewandte Linguistik"
+  img: 
+  thumbnail: gal-logo.png
+  subtitle: 
+  description: 
+  website: gal-ev.de
+  contact: 
+
+- company: "Zentrum für digitale Lexikographie der deutschen Sprache"
+  img: 
+  thumbnail: zdl-logo.png
+  subtitle: 
+  description: 
+  website: www.zdl.org
+  contact: 
+
+- company: "Digitales Wörterbuch der deutschen Sprache"
+  img: 
+  thumbnail: dwds-logo.png
+  subtitle: 
+  description: 
+  website: www.dwds.de
   contact: 
 
   
