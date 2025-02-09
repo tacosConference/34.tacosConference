@@ -16,6 +16,15 @@
   topic: 
   description: 
 
+- title: "Prof. Dr. Sina Zarrieß"
+  name: Prof. Dr. Sina Zarrieß
+  subtitle: Bielefeld University
+  img: zarrieß.jpg
+  thumbnail: zarrieß.jpg
+  alt: Photo of Sina Zarrieß
+  topic: 
+  description: Sina Zarrieß is a professor for Computational Linguistics at Bielefeld University. Previously, she held a junior professorship for Digital Humanities, Language Technology and Machine Learning at the University of Jena. She obtained her PhD at the Institute for Natural Language Processing at Stuttgart University and spent her post-doc at the University of Bielefeld as a member of the Excellence Cluster for Cognitive Interaction Technology. Her research focuses on computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language & vision. 
+
 - title: "Dr. Ronja Laarmann-Quante"
   name: Dr. Ronja Laarmann-Quante
   subtitle: Ruhr University Bochum
@@ -23,7 +32,7 @@
   thumbnail: laarmann-quante.png
   alt: Photo of Ronja Laarmann-Quante
   topic: 
-  description: Ronja Laarmann-Quante studied Linguistics with a focus on Computational Linguistics at Ruhr-University Bochum between 2010 and 2015. Afterwards, she did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is back at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
+  description: Ronja Laarmann-Quante did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is back at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
 
 #- title: Name
 #  name: Name-4
