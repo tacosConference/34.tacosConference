@@ -14,21 +14,21 @@
   website: gscl.org
   contact: 
 
-- company: "Sammlungen Linguistik"
-  img: 
-  thumbnail: sam_ling-logo.png
-  subtitle: 
-  description: 
-  website: 
-  contact: 
-
 - company: "Association for Computational Linguistics"
   img: 
   thumbnail: eacl-logo.png
   subtitle: 
   description: 
   website: eacl.org
-  contact: 
+  contact:
+
+- company: "Sammlungen Linguistik"
+  img: 
+  thumbnail: sam_ling-logo.png
+  subtitle: 
+  description: 
+  website: 
+  contact:  
 
 - company: "Deutsche Gesellschaft für Sprachwissenschaft"
   img: 
