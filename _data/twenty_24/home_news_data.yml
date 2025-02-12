@@ -26,7 +26,7 @@
   linktext: Sponsorship Booklet
   link: css\2024_style\pdfs_etc\Sponsor-Flyer-2025.pdf
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-team.jpeg
   title: Registration is now live
   text: Whether you want to attend, present a project, or lead a workshop, you're just one step away :)
