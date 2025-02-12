@@ -6,13 +6,6 @@
   link: /news
 
 #  - inverted: timeline-inverted
-#  img: tacos_2024_logo_circle.png
-#  title: Registration
-#  text: Unfortunately, attendance registration is not yet open. Please check back soon!
-#  linktext: Register here!
-#  link: /register
-
-#  - inverted: timeline-inverted
 #  img: icon-agenda.jpeg
 #  title: Agenda
 #  text: Check out the (preliminary) agenda
@@ -32,3 +25,10 @@
   text: Interested in backing us? Download our sponsor booklet, learn more and reach out!
   linktext: Sponsorship Booklet
   link: css\2024_style\pdfs_etc\Sponsor-Flyer-2025.pdf
+
+- inverted: timeline-inverted
+  img: icon-team.jpeg
+  title: Registration is now live
+  text: Whether you want to attend, present a project, or lead a workshop, you're just one step away :)
+  linktext: Register here!
+  link: /register

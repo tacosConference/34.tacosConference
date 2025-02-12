@@ -2,7 +2,7 @@
 #  text: text of news item
 
 - inverted: timeline-inverted
-  img: icon-agenda.png
+  img: icon-team.png
   headline: "12 February: Registration is now live"
   text: Whether you want to attend, present a project, or lead a workshop, you're just one step away :)
   linktext: Register
