@@ -2,6 +2,13 @@
 #  text: text of news item
 
 - inverted: timeline-inverted
+  img: icon-agenda.png
+  headline: "12 February: Registration is now live"
+  text: Whether you want to attend, present a project, or lead a workshop, you're just one step away :)
+  linktext: Register
+  link: /register
+
+- inverted: timeline-inverted
   img: booklet-icon.png
   headline: "24 November: Sponsorship Booklet available"
   text: Interested in backing us? Download our sponsor booklet, learn more and reach out!
