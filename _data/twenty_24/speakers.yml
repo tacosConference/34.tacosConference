@@ -32,7 +32,7 @@
   thumbnail: zafar.jpg
   alt: Photo of Bilal Zafar
   topic:
-  description: Bilal Zafar is a professor of Computer Science at Ruhr University Bochum and Research Center for Trustworthy Data Science and Security, as well as a PI at the Cluster of Excellence CASA and a member of the Horst Görtz Institute for IT Security. Previously, he was a Research Scientist at Bosch Center for Artificial Intelligence and a Senior Applied Scientist at Amazon Web Services in Berlin, where his main focus was building products to support trustworthy use of artificial intelligence and machine learning.
+  description: Bilal Zafar is a professor of Computer Science at Ruhr University Bochum and Research Center for Trustworthy Data Science and Security, as well as a PI at the Cluster of Excellence CASA. Previously, he was a Research Scientist at Bosch Center for Artificial Intelligence and a Senior Applied Scientist at Amazon Web Services in Berlin, where his main focus was building products to support trustworthy use of artificial intelligence and machine learning.
 
 - title: "Dr. Ronja Laarmann-Quante"
   name: Dr. Ronja Laarmann-Quante
@@ -41,7 +41,7 @@
   thumbnail: laarmann-quante.png
   alt: Photo of Ronja Laarmann-Quante
   topic: 
-  description: Ronja Laarmann-Quante did her PhD in Computational Linguistics about the "Prediction of Spelling Errors in Freely-Written Texts of German Primary School Children" and worked as a postdoc at the University of Duisburg-Essen and FernUniversität in Hagen. Since 2022, she is at the RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
+  description: Ronja Laarmann-Quante did her PhD on the prediction of spelling errors in freely-written texts of German primary school children, and is at RUB since 2022, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, NLP for the educational domain and literacy acquisition.
 
 #- title: Name
 #  name: Name-4
