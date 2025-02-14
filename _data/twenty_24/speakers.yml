@@ -14,7 +14,7 @@
   thumbnail: zesch.jpg
   alt: Photo of Torsten Zesch
   topic: Automatic Analysis of Learner Language to Support Learners
-  description: Torsten Zesch is a professor of Computational Linguistics at CATALPA (Center of Advanced Technology for Assisted Learning and Predictive Analytics). He was the president of the German Society for Computational Linguistics and Language Technology (GSCL) from 2017 to 2023. His main research interests are in educational natural language processing, in particular the ways in which teaching and learning processes can be supported by language technology. For this purpose, he develops methods for the automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
+  description: Torsten Zesch is a professor of Computational Linguistics at the Center of Advanced Technology for Assisted Learning and Predictive Analytics. He was the president of GSCL from 2017 to 2023. His main research interests are in educational natural language processing, in particular the ways in which teaching and learning processes can be supported by language technology. For this purpose, he develops methods of automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
 
 - title: "Prof. Dr. Sina Zarrieß"
   name: Prof. Dr. Sina Zarrieß
@@ -24,6 +24,15 @@
   alt: Photo of Sina Zarrieß
   topic: Challenging large and small language models with simple linguistic tasks
   description: Sina Zarrieß is a professor for Computational Linguistics at Bielefeld University. Previously, she held a junior professorship for Digital Humanities, Language Technology and Machine Learning at the University of Jena. She obtained her PhD at the Institute for Natural Language Processing at Stuttgart University and spent her post-doc at the University of Bielefeld as a member of the Excellence Cluster for Cognitive Interaction Technology. Her research focuses on computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language & vision. 
+
+- title: "Prof. Dr. Bilal Zafar"
+  name: Prof. Dr. Bilal Zafar
+  subtitle: Ruhr University Bochum
+  img: zafar.jpg
+  thumbnail: zafar.jpg
+  alt: Photo of Bilal Zafar
+  topic:
+  description: Bilal Zafar is a professor of Computer Science at Ruhr University Bochum and Research Center for Trustworthy Data Science and Security, as well as a PI at the Cluster of Excellence CASA and a member of the Horst Görtz Institute for IT Security. Previously, he was a Research Scientist at Bosch Center for Artificial Intelligence and a Senior Applied Scientist at Amazon Web Services in Berlin, where his main focus was building products to support trustworthy use of artificial intelligence and machine learning.
 
 - title: "Dr. Ronja Laarmann-Quante"
   name: Dr. Ronja Laarmann-Quante
