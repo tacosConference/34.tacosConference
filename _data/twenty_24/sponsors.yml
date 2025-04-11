@@ -6,6 +6,22 @@
   website: freunde-rub.de
   contact: 
 
+- company: "Bochum-Fonds"
+  img: 
+  thumbnail: bochum_fonds-logo.png
+  subtitle: 
+  description: 
+  website: bochum-fonds.de
+  contact: 
+
+- company: "Bochum-Strategie"
+  img: 
+  thumbnail: bochum_strategie-logo.png
+  subtitle: 
+  description: 
+  website: www.bochum.de/Die-Bochum-Strategie
+  contact: 
+
 - company: "Python Software Verband"
   img: 
   thumbnail: PySV-logo.png
