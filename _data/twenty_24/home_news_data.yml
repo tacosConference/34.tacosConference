@@ -32,3 +32,10 @@
   text: Whether as an attendee or a presenter - you're just one step away :)
   linktext: Register here!
   link: /register
+
+- inverted: timeline-inverted
+  img: icon-about.png
+  headline: See the keynote lineup
+  text: Discover the topics our speakers will delve into and their areas of expertise now!
+  linktext: Explore
+  link: https://tacosconference.github.io/#Speakers
