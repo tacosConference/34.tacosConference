@@ -35,7 +35,7 @@
 
 - inverted: timeline-inverted
   img: icon-about.jpeg
-  headline: See the keynote lineup
+  title: See the keynote lineup
   text: Discover the topics our speakers will delve into and their areas of expertise now!
   linktext: Explore
   link: /#Speakers
