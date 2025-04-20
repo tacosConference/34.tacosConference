@@ -39,3 +39,10 @@
   text: Discover the topics our speakers will delve into and their areas of expertise now!
   linktext: Explore
   link: /#Speakers
+
+- inverted: 
+  img: icon-team.jpeg
+  title: Last chance!
+  text: Register by the end of day 20 April to take part in TaCoS 2025
+  linktext: Register here!
+  link: /register
