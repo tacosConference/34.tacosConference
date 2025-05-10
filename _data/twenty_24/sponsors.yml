@@ -4,7 +4,7 @@
   subtitle: 
   description: 
   website: freunde-rub.de
-  contact: 
+  info: 
 
 - company: "Bochum-Fonds"
   img: 
@@ -12,7 +12,7 @@
   subtitle: 
   description: 
   website: bochum-fonds.de
-  contact: 
+  info: 
 
 - company: "Bochum-Strategie"
   img: 
@@ -20,7 +20,7 @@
   subtitle: 
   description: 
   website: www.bochum.de/Die-Bochum-Strategie
-  contact: 
+  info: 
 
 - company: "Python Software Verband"
   img: 
