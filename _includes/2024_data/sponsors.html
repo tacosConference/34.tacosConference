@@ -25,7 +25,11 @@
                 </a>
                 <div class="speakers-caption">
                     <center>
-                    <a href="{{ sponsor.info }}"><h4>{{ sponsor.company }}</h4></a>
+                    {% if sponsor.info == "" %}
+                        <h4>{{ sponsor.company }}</h4>
+                    {% else %}
+                        <a href="{{ sponsor.info }}"><h4>{{ sponsor.company }}</h4></a>
+                    {% endif %}
                     <!--p class="text-muted">{{ sponsor.subtitle }}</p>
                     <a href="https://{{ sponsor.website }}">{{ sponsor.website }}</a-->
                     </center>
