@@ -902,9 +902,7 @@ ul.mylist {
     display: inline-block;
 	text-align: left;
 }
-ul.gast{
-    text-align: left;
-}
+
 ul {
     text-align: center;
     list-style-position: inside;
