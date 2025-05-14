@@ -2,6 +2,13 @@
 #  text: text of news item
 - inverted: timeline-inverted
   img: icon-team.png
+  headline: "14 May: Design your experience"
+  text: Explore the conference agenda, highlight your must-see talks, and make the most of it!
+  linktext: Agenda
+  link: /agenda
+
+- inverted: timeline-inverted
+  img: icon-team.png
   headline: "20 April: Last chance"
   text: Secure your spot at TaCoS 2025 - registration closes tonight!
   linktext: Register
