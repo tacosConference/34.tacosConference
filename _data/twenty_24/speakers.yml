@@ -1,30 +1,48 @@
-- title: "title"
-  name: name
-  subtitle: subtitle
-  img: 
-  thumbnail: 
-  alt: alt
-  topic: topic
-  description: description
-
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
-  img: 
-  thumbnail: 
-  alt: TBD
-  topic: TBD
-  description: TBD
-
-- title: "TBD"
-  name: TBD
-  subtitle: TBD
-  img: 
-  thumbnail: 
-  alt: TBD
-  topic: TBD
-  description: TBD
+- title: "Prof. Dr. Stefanie Dipper"
+  name: Prof. Dr. Stefanie Dipper
+  subtitle: Ruhr University Bochum
+  img: dipper.jpg
+  thumbnail: dipper.jpg
+  alt: Photo of Stefanie Dipper
+  topic: "Juice of life, power current and the Elijah two-act play: Annotation and analysis of metaphors in German sermons"
+  description: Stefanie Dipper's research focuses on resources and methods for analyzing historical language data. Among other things, she was involved in the creation of the widely used reference corpora of Middle and Early New High German. In more recent projects, she is working on the syntactic analysis of Middle High German within the framework of Universal Dependencies. She also studies the linguistic properties of metaphors in religious texts.
   
+- title: "Prof. Dr.-Ing. Torsten Zesch"
+  name: Prof. Dr.-Ing. Torsten Zesch
+  subtitle: FernUniversität in Hagen
+  img: zesch.jpg
+  thumbnail: zesch.jpg
+  alt: Photo of Torsten Zesch
+  topic: Automatic Analysis of Learner Language to Support Learners
+  description: Torsten Zesch was the president of GSCL in 2017-2023, and is currently a professor of Computational Linguistics at the Center of Advanced Technology for Assisted Learning and Predictive Analytics. His research interests lie in educational natural language processing, in particular in how teaching and learning processes can be supported by language technology. That is why he develops methods of automatic analysis of textual and multimodal language data, with a focus on robust and explainable models.
+
+- title: "Prof. Dr. Sina Zarrieß"
+  name: Prof. Dr. Sina Zarrieß
+  subtitle: Bielefeld University
+  img: zarrieß.jpg
+  thumbnail: zarrieß.jpg
+  alt: Photo of Sina Zarrieß
+  topic: Challenging large and small language models with simple linguistic tasks
+  description: Sina Zarrieß is a professor of Computational Linguistics. Previously, she held a junior professorship for Digital Humanities, Language Technology and Machine Learning at the University of Jena. During her postdoc she was a member of the Excellence Cluster for Cognitive Interaction Technology. Her research focuses on computational models of language use in text and dialogue, with applications in natural language generation, dialogue systems, language, and vision. 
+
+- title: "Prof. Dr. Bilal Zafar"
+  name: Prof. Dr. Bilal Zafar
+  subtitle: Ruhr University Bochum
+  img: zafar.jpg
+  thumbnail: zafar.jpg
+  alt: Photo of Bilal Zafar
+  topic: On Trustworthiness of LLMs
+  description: Bilal Zafar is a professor of Computer Science at the RUB and at the Research Center for Trustworthy Data Science and Security, as well as a PI at the Cluster of Excellence CASA. Previously, he was a Research Scientist at Bosch Center for Artificial Intelligence and a Senior Applied Scientist at Amazon Web Services in Berlin, where his main focus was building products to support trustworthy use of AI and machine learning.
+
+- title: "Dr. Ronja Laarmann-Quante"
+  name: Dr. Ronja Laarmann-Quante
+  subtitle: Ruhr University Bochum
+  img: laarmann-quante.png
+  thumbnail: laarmann-quante.png
+  alt: Photo of Ronja Laarmann-Quante
+  topic: What computational linguists can do with spelling errors
+  description: Ronja Laarmann-Quante's PhD was on the prediction of spelling errors in freely-written texts of German primary school children. Since 2022, she is at RUB, doing research and teaching at the intersection of Computational Linguistics and Psycholinguistics, especially in the area of corpus-based analysis of first- and second language acquisition, as well as natural language processing for the educational domain and literacy acquisition.
+
 #- title: Name
 #  name: Name-4
 #  subtitle: Position

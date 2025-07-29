@@ -1,23 +1,9 @@
 - inverted:
-  img: tacos_2024_logo.png
+  img: tacos_2025_logo.png
   title: So it begins...
-  text: We've begun organizing the 33rd TaCoS conference! Check back here for updates.
-  linktext: Previous Updates
+  text: We've begun organizing the 34th TaCoS conference! Check back here for updates.
+  linktext: All Updates
   link: /news
-
-#  - inverted: timeline-inverted
-#  img: tacos_2024_logo_circle.png
-#  title: Registration
-#  text: Unfortunately, attendance registration is not yet open. Please check back soon!
-#  linktext: Register here!
-#  link: /register
-
-#  - inverted: timeline-inverted
-#  img: icon-agenda.jpeg
-#  title: Agenda
-#  text: Check out the (preliminary) agenda
-#  linktext: Agenda
-#  link: /agenda
 
 #  - inverted: timeline-inverted
 #  img: icon-venue.jpeg
@@ -26,8 +12,37 @@
 #  linktext: Venue
 #  link: /venue
 
-#  - inverted: timeline-inverted
-#  img: booklet-icon.png
-#  name: Sponsor Booklet
-#  info: Interested in backing us? Download our sponsor booklet and reach out to us once it is available!
-#  link: ""
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  title: Sponsorship Booklet
+  text: Interested in backing us? Download our sponsor booklet, learn more and reach out!
+  linktext: Sponsorship Booklet
+  link: css\2024_style\pdfs_etc\Sponsor-Flyer-2025.pdf
+
+- inverted: 
+  img: icon-team.jpeg
+  title: Registration is now live
+  text: Whether as an attendee or a presenter - you're just one step away :)
+  linktext: Register here!
+  link: /register
+
+- inverted: timeline-inverted
+  img: icon-about.jpeg
+  title: See the keynote lineup
+  text: Discover the topics our speakers will delve into and their areas of expertise now!
+  linktext: Explore
+  link: /#Speakers
+
+- inverted: 
+  img: icon-team.jpeg
+  title: Last chance!
+  text: Register by the end of day 20 April to take part in TaCoS 2025
+  linktext: Register here!
+  link: /register
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  title: Conference agenda
+  text: Highlight your must-see talks to make the most out of TaCoS 2025!
+  linktext: Agenda
+  link: /agenda

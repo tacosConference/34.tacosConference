@@ -1,0 +1,70 @@
+- title: " "
+  name: "Mariia Neguliaeva"
+  ref: Maria
+  img: Mariia-Neguliaeva.jpg
+  email: email (placeholder)
+
+- title: " "
+  name: "Jakob Schuster"
+  ref: Jakob
+  img: Jakob-Schuster.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Oleksandra Yazdanfar"
+  ref: Oleksandra
+  img: Oleksandra-Yazdanfar.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Cornelia Ziegs"
+  ref: Conny
+  img: Cornelia-Ziegs.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Carina Zander"
+  ref: Carina
+  img: Carina-Zander.jpg
+  description: 
+  email: email (placeholder)
+
+- title: " "
+  name: "Ayanat Asan"
+  ref: Ayanat
+  img: Ayanat-Asan.jpg
+  description: 
+  email: email (placeholder)
+
+# - title: "Administrative Assistant"
+#  name: "Bri Lehman"
+#  ref: Bri
+#  img: Bri-Lehman.jpg
+#  description: "2nd year student at LST, HiWi at project A8"
+
+# - title: "Sponsorship and Social Media Coordinator"
+#  name: "Katharina Trinley"
+#  ref: Katharina
+#  img: Katharina-Trinley.png
+#  description: "1st year Master's student in Language Science and Technology"
+#  email: katharinatrinley@icloud.com
+
+
+#- title: "Beach"
+#  name: "William LaCroix"
+#  ref: William
+#  img: William-LaCroix.jpg
+#  topic: 
+#  description: "Second year Master's student in Language Science and Technology, focusing on natural language processing and machine learning. Working as a data science research assistant with the German Research Center for Artificial Intelligence."
+#  email: williamplacroix@gmail.com
+#  website: https://williamplacroix.github.io/Portfolio/
+
+#- title: "Helper"
+#  name: "Marc Altmeyer"
+#  ref: Marc
+#  img: Marc-Altmeyer.jpg
+#  description: "I'm a former Coli student from Saarbrücken, who is helping the TaCoS Team with organizing to provide you with a great conference experience."
+#  email: marcaltmeyer.ma@gmail.com

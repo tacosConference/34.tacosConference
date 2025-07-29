@@ -1,2 +1,64 @@
-- headline: news headline, including date
-  text: text of news item
+#- headline: news headline, including date
+#  text: text of news item
+- inverted: timeline-inverted
+  img: icon-team.png
+  headline: "14 May: Design your experience"
+  text: Explore the conference agenda, highlight your must-see talks, and make the most of it!
+  linktext: Agenda
+  link: /agenda
+
+- inverted: timeline-inverted
+  img: icon-team.png
+  headline: "20 April: Last chance"
+  text: Secure your spot at TaCoS 2025 - registration closes tonight!
+  linktext: Register
+  link: /register
+
+- inverted: timeline-inverted
+  img: icon-about.jpeg
+  headline: "11 April: See the keynote lineup"
+  text: Discover the topics our speakers will delve into and their areas of expertise now!
+  linktext: Explore
+  link: /#Speakers
+
+- inverted: timeline-inverted
+  img: icon-team.png
+  headline: "12 February: Registration is now live"
+  text: Whether you want to attend, present a project, or lead a workshop, you're just one step away :)
+  linktext: Register
+  link: /register
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  headline: "24 November: Sponsorship Booklet available"
+  text: Interested in backing us? Download our sponsor booklet, learn more and reach out!
+  linktext: Click here
+  link: /booklet
+
+- inverted:
+  img: tacos_2025_logo.png
+  headline: "15 October: So it begins..." 
+  text: We've begun organizing the 34th TaCoS conference! Check back here for updates.
+  linktext: All updates
+  link: /news
+
+#  - inverted: timeline-inverted
+#  img: tacos_2024_logo_circle.png
+#  title: Registration
+#  text: Unfortunately, attendance registration is not yet open. Please check back soon!
+#  linktext: Register here!
+#  link: /register
+
+#  - inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  title: Agenda
+#  text: Check out the (preliminary) agenda
+#  linktext: Agenda
+#  link: /agenda
+
+#  - inverted: timeline-inverted
+#  img: icon-venue.jpeg
+#  title: Venue
+#  text: The conference will be held at the University of Duisburg-Essen, Campus Essen.
+#  linktext: Venue
+#  link: /venue

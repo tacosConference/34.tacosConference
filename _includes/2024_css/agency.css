@@ -326,7 +326,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: #{{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #f7efe2;
+    color: white;
 }
 
 .navbar-default.navbar-shrink .nav li a {
@@ -352,7 +352,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #f7efe2;
+    background-color: #DCF8FB;
     color: #fff;
 }
 
@@ -391,7 +391,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2024_style/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/css/2024_style/img/header_RUB.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -637,7 +637,8 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    /*border: 7px solid #f1f1f1;*/
+    border: 7px solid #000000;
     border-radius: 100%;
     text-align: center;
     color: #fff;

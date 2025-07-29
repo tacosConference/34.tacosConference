@@ -1,26 +1,105 @@
-- company: "company"
+- company: "Gesellschaft der Freunde der RUB"
   img: 
-  thumbnail: 
-  subtitle: subtitle
-  description: description
-  website: website
-  contact: contact
+  thumbnail: freunde-logo.png
+  subtitle: 
+  description: 
+  website: freunde-rub.de
+  info: 
 
-- company: "TBD"
+- company: "Bochum-Fonds"
   img: 
-  thumbnail: 
-  subtitle: TBD
-  description: TBD
-  website: TBD
-  contact: TBD
+  thumbnail: bochum_fonds-logo.png
+  subtitle: 
+  description: 
+  website: bochum-fonds.de
+  info: 
 
-- company: "TBD"
+- company: "Bochum-Strategie"
   img: 
-  thumbnail: 
-  subtitle: TBD
-  description: TBD
-  website: TBD
-  contact: TBD
+  thumbnail: bochum_strategie-logo.png
+  subtitle: 
+  description: 
+  website: www.bochum.de/Die-Bochum-Strategie
+  info: 
 
+- company: "Python Software Verband"
+  img: 
+  thumbnail: PySV-logo.png
+  subtitle: 
+  description: 
+  website: python-verband.org
+  contact: 
+
+- company: "Gesellschaft für Sprachtechnologie und Computerlinguistik"
+  img: 
+  thumbnail: gscl-logo.png
+  subtitle: 
+  description: 
+  website: gscl.org
+  contact: 
+
+- company: "Association for Computational Linguistics"
+  img: 
+  thumbnail: eacl-logo.png
+  subtitle: 
+  description: 
+  website: eacl.org
+  contact:
+
+- company: "Sammlungen Linguistik"
+  img: 
+  thumbnail: sam_ling-logo.png
+  subtitle: 
+  description: 
+  website: 
+  contact:  
+
+- company: "Deutsche Gesellschaft für Sprachwissenschaft"
+  img: 
+  thumbnail: dgfs-logo.png
+  subtitle: 
+  description: 
+  website: dgfs.de
+  contact: 
+
+- company: "Gesellschaft für Angewandte Linguistik"
+  img: 
+  thumbnail: gal-logo.png
+  subtitle: 
+  description: 
+  website: gal-ev.de
+  contact: 
+
+- company: "Gesellschaft für Akademische Studienvorbereitung und Testentwicklung"
+  img: 
+  thumbnail: gast-logo.png
+  subtitle: 
+  description: 
+  website: gast.de
+  info: /gast_eV
+
+- company: "Zentrum für digitale Lexikographie der deutschen Sprache"
+  img: 
+  thumbnail: zdl-logo.png
+  subtitle: 
+  description: 
+  website: www.zdl.org
+  contact: 
+
+- company: "Digitales Wörterbuch der deutschen Sprache"
+  img: 
+  thumbnail: dwds-logo.png
+  subtitle: 
+  description: 
+  website: www.dwds.de
+  contact: 
+
+- company: "Niederlandistenverband"
+  img: 
+  thumbnail: niederlandist-logo.png
+  subtitle: 
+  description: 
+  website: www.niederlandistenverband.org
+  contact: 
   
 
