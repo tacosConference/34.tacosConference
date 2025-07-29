@@ -1,8 +1,8 @@
 title: 34. TaCoS
 description: > # this means to ignore newlines until "baseurl:"
   34. TaCoS Conference in Bochum
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "tacosconference.github.io/" # th  e base hostname & protocol for your site
+baseurl: "/34.tacosConference/" # the subpath of your site, e.g. /blog
+url: "https://tacosconference.github.io" # th  e base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -34,6 +34,4 @@ social:
 
 incremental: true
 permalink: pretty
-# Source: "G:/My Drive/UdS/TaCoS/tacosConference.github.io"
-Server address: http://127.0.0.1:4000/
 regenerate: true
